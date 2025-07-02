@@ -1,0 +1,4781 @@
+
+Содержимое директории 'C:\Users\WD solo\source\RequestBotLinux' (рекурсивно):
+.git [Директория]
+  COMMIT_EDITMSG [Файл]
+  config [Файл]
+  description [Файл]
+  FETCH_HEAD [Файл]
+  HEAD [Файл]
+  hooks [Директория]
+    applypatch-msg.sample [Файл]
+    commit-msg.sample [Файл]
+    fsmonitor-watchman.sample [Файл]
+    post-update.sample [Файл]
+    pre-applypatch.sample [Файл]
+    pre-commit.sample [Файл]
+    pre-merge-commit.sample [Файл]
+    pre-push.sample [Файл]
+    pre-rebase.sample [Файл]
+    pre-receive.sample [Файл]
+    prepare-commit-msg.sample [Файл]
+    push-to-checkout.sample [Файл]
+    sendemail-validate.sample [Файл]
+    update.sample [Файл]
+  index [Файл]
+  info [Директория]
+    exclude [Файл]
+  logs [Директория]
+    HEAD [Файл]
+    refs [Директория]
+      heads [Директория]
+        master [Файл]
+      remotes [Директория]
+        origin [Директория]
+          master [Файл]
+  ms-persist.xml [Файл]
+  objects [Директория]
+    00 [Директория]
+      179fd9b5292087c3f007bd9de1f16b7277a789 [Файл]
+      4c0b85e1892747ff41133876c11d225639f2bc [Файл]
+      d4f082b3a4cd6b9a7e1230b654769510136969 [Файл]
+    02 [Директория]
+      8e90ddcbbed7c603e1aa40366c7336f9426224 [Файл]
+    03 [Директория]
+      6a8555d484199bf6d1772971d9e4c82069b933 [Файл]
+    05 [Директория]
+      f7b76196670a329895867709d47cb423a24fd8 [Файл]
+    07 [Директория]
+      d2a7d32b57323b727eff5d85d80de63498de72 [Файл]
+    08 [Директория]
+      54024854295160559b9d46e8ecc0b7f64f9b51 [Файл]
+    0b [Директория]
+      1ef5f6c5f9bf21b7321ee94cdf7652b84682dc [Файл]
+    0d [Директория]
+      c1a465e659e3d2dc2712ea03ce40c0aa855bce [Файл]
+    0e [Директория]
+      cd00ce78233108c72bd7a98b8138c4b139e06a [Файл]
+    11 [Директория]
+      cfe253db358e6155c36822dd0a3ebf804b95bb [Файл]
+    14 [Директория]
+      83c49321f48b24fb5e1f9b4d456304314ed491 [Файл]
+      ae7edb392fa5c5f43e567eded103d51279d59e [Файл]
+    15 [Директория]
+      67aec4329aa0e947dc451be5e127a7bee79860 [Файл]
+    16 [Директория]
+      787716772eb82e7dc849ae886ed2c7f125aa6a [Файл]
+    17 [Директория]
+      7923464c04b34cb276e8d562ab4b532c6de7ab [Файл]
+    18 [Директория]
+      cf1a3f5948bdaaa1ad77957070657dad1c54d4 [Файл]
+    19 [Директория]
+      7dea3c1f4a41d9445ff329e78132070927e56a [Файл]
+      9b4d548b7bfd097ff0b5527bed120ba5183a92 [Файл]
+    1b [Директория]
+      a7b9d8d54405cc662e94466746aa5b072477ff [Файл]
+    1f [Директория]
+      d3b6a5ba5c48267a039c70f62bb72cb258d018 [Файл]
+      f0c423042b46cb1d617b81efb715defbe8054d [Файл]
+    20 [Директория]
+      184967d7cccec2c0acddb3bbbef230e7924f64 [Файл]
+    21 [Директория]
+      a160fb7c0275c161e72221e68a4493dc75bf32 [Файл]
+      e6bf737d88798cc6647d65fd3cd218d8bec53d [Файл]
+    22 [Директория]
+      a6203be10c03baf87f0d4a6a77f43e3cd62d6d [Файл]
+    23 [Директория]
+      6193859f9e3ae7df65a1e9371bbcb78ce57493 [Файл]
+      d352dcee6327f3a0d7b27a4fcb4b5024994b78 [Файл]
+    25 [Директория]
+      18e0213498beae1f1ab61a939cd96be437e3b8 [Файл]
+    26 [Директория]
+      f32fc4664456fd42e36a8005d16fc197318027 [Файл]
+    28 [Директория]
+      702e3efa00b920f3eeb0c4780dc916d8cdd483 [Файл]
+    2a [Директория]
+      0d83b0075906d0e101268212f73df8279dcecf [Файл]
+      39c19e8dcef7b7440fdb36ab8a81f024186c21 [Файл]
+    2b [Директория]
+      3c1f8410a1fd87b24afcccfaedbf4cd7a9a5df [Файл]
+      9d65cc69810db1956140fbf55bf2d5a20781bf [Файл]
+    2e [Директория]
+      3acef62ad06e5203e0fc74cd61649355e5160a [Файл]
+      557beb5de2136da4fc2f16036ff49d653f6472 [Файл]
+      56737b767f4145e2f84e9a422e614de51f0029 [Файл]
+    31 [Директория]
+      5d365c184e60a197b12ab396231462f96b8193 [Файл]
+    35 [Директория]
+      8a4a4f3fb11e7c58f882fb7c454d6e57245564 [Файл]
+      b838fc2f6368c5040de5dcbb5950ada2e79326 [Файл]
+    38 [Директория]
+      880f2454d3dc11666f135c3d852e24649d81c9 [Файл]
+    39 [Директория]
+      01a98dcad318f165bc105966b73eac487a723f [Файл]
+    3d [Директория]
+      45d66a9a4c154e5ac9058bf98a336c207fc00a [Файл]
+    40 [Директория]
+      ac6b1cdb3a6e56624762f091461c5b1916a58a [Файл]
+    41 [Директория]
+      37389e22636194326e75003e3a7048b535c1d9 [Файл]
+      3f40ced327a5685072058cc5826225f3894b54 [Файл]
+      48ad42308ee8db478ee0a116c6e3fc4a9c3f1c [Файл]
+    42 [Директория]
+      113b03ce030549f1bf4435d6ae8340358cb145 [Файл]
+      f6172ea344eff7534c719db9cb237d70168956 [Файл]
+    43 [Директория]
+      c542f3a8229b2111b75e012618a8462ab9da7c [Файл]
+    45 [Директория]
+      316ab0e0225102e67a19a922e3a3272f7b8343 [Файл]
+    4d [Директория]
+      444dc71af1257ef148ad1b125fd3c4b810d2a6 [Файл]
+    4f [Директория]
+      2254572114442f4621a982e27230797babfc13 [Файл]
+    51 [Директория]
+      d877e3f669bf6ca79fa792d493012c99503114 [Файл]
+    53 [Директория]
+      4506663a793bee26e4a0295746ec1fb682bed6 [Файл]
+    54 [Директория]
+      aa453fa19bf341d9e38aad6f91f43a54076794 [Файл]
+    55 [Директория]
+      95e3893eb47ba1b6b4ee5f099c0356aacdc14d [Файл]
+    57 [Директория]
+      4699610174249a30d3f4c9d9362675ccf9f3c2 [Файл]
+    5a [Директория]
+      f56be4d89c4351849e4790624e52a60aa3134e [Файл]
+    5d [Директория]
+      c4eec0c6e5d9d02cc4c5e374d0b61a1d7ee951 [Файл]
+    5e [Директория]
+      5bf33623da3fa6f8a9d744a983980f4a228e3f [Файл]
+    5f [Директория]
+      8a5e33923701bdc5ff38735d77a92515a08b98 [Файл]
+    63 [Директория]
+      497568c18ef3dc1d882bb4cf7f64a014be7173 [Файл]
+      9ea7d25575dd2febfc63211b19504c85013378 [Файл]
+    67 [Директория]
+      2ec0fa41f64f79974ee710221a4f6e9a87e1a9 [Файл]
+    6a [Директория]
+      2a76831971f46bbda78dfc43452005123c9d66 [Файл]
+    6c [Директория]
+      11bdb45f7bcc3323fcc84087b3a4901e2d5eae [Файл]
+    71 [Директория]
+      424d5b4fa35b3a5779463bb6ccabef90e01328 [Файл]
+    72 [Директория]
+      1eb1bb65933d8e3f75355d2e8db48f55580d11 [Файл]
+    75 [Директория]
+      171ef57cd9cdacb15adf4e5d8c317c75900930 [Файл]
+      d14ae885ff5cba3972a6db975b79a997225679 [Файл]
+      e9529a394aff2b65a677a78538237ecf09977a [Файл]
+    78 [Директория]
+      25afec1268e2ec2f6f1e1779c1cac5783fbfb4 [Файл]
+      6d49ea5604d0fe178cc12476a30610ea306f4c [Файл]
+      e42fc66f74e4dda86f6c4f646db10e777c201a [Файл]
+    7a [Директория]
+      711815ab8b0fe599afda5397661aa5c1824a82 [Файл]
+    7c [Директория]
+      1b8a7ad06519d3e61ddb1ef128dfce7df3b9d9 [Файл]
+      e78b76c18db600e4edd95d57ca187e72c9ce62 [Файл]
+    7d [Директория]
+      150584495680aabfd2b541ac5af5fd213aac35 [Файл]
+      bdf1f60b9385af1cbf3a4514be4f37f67e6436 [Файл]
+    7e [Директория]
+      2f83ab34c5f4edf491cf8dbd3be832876741a5 [Файл]
+    82 [Директория]
+      93206e786b3ac667ca5634861985b6c723d66a [Файл]
+    83 [Директория]
+      bdd8c3cb65b46ae5869921ec96b746e9c885c6 [Файл]
+    84 [Директория]
+      9f8fab1d1c84673d26574581f893752ba2cf79 [Файл]
+    85 [Директория]
+      fbd3da53aabd61362ceb4db90c4762e5705aeb [Файл]
+    86 [Директория]
+      c7cea8d1b8f769572fbb820989f52c2c8e8868 [Файл]
+    89 [Директория]
+      40a1c57beec9cb4253291087b529eba982feca [Файл]
+    8a [Директория]
+      fc553d0c91f5564a1650991a6259e6377218b8 [Файл]
+    8b [Директория]
+      a50f7e7cd131f3d28baf22d09b57a78d9d394f [Файл]
+    92 [Директория]
+      8f1598902c16521ec3e826ee48834f64b7a2ac [Файл]
+    94 [Директория]
+      91a2fda28342ab358eaf234e1afe0c07a53d62 [Файл]
+    95 [Директория]
+      474452119be20a19d2cb861c26d9471596f073 [Файл]
+      90f3d373244a9bed2d111daa0c68db8088618e [Файл]
+    97 [Директория]
+      64b30be0c551e80abc86605aa3240729b4271b [Файл]
+    98 [Директория]
+      7abc9358fa490913d4bd5a4c67b516cb5d48f3 [Файл]
+      8de37bccfcc64993ca87f6bbe19969f932081e [Файл]
+      a0c6f8b2875977d26fd856db8882dc9f129c95 [Файл]
+    99 [Директория]
+      94dee39a38da33bf4c6dbbf34b677274f235e0 [Файл]
+    9a [Директория]
+      f237549874c29ce55b0d7693b899d548fd8622 [Файл]
+    9b [Директория]
+      29e5ded7640552d3f5e54175d66f9f10f2a3d7 [Файл]
+    9c [Директория]
+      0ff87b7965b78e25c1252a464941aedb7f0a52 [Файл]
+    9d [Директория]
+      3a04dbe7015213001e2c1d256aeff4581801f0 [Файл]
+      4e77cc4e7dd737962d0cb4d9aeacbf4724200e [Файл]
+      b88a86782742e4ae44467da14f1ffc06964123 [Файл]
+    9e [Директория]
+      7cd1b39d08847d43c9470e28efdd8531b98f78 [Файл]
+    a3 [Директория]
+      f1dddc278a1ae0bfb688b0c1c91bdef9b0f583 [Файл]
+    a5 [Директория]
+      4796693e12408a1fc46e08e2d561d7ca7a9e77 [Файл]
+    a6 [Директория]
+      a70314380c7945e4e9bd26e72e4a2364955c07 [Файл]
+    ab [Директория]
+      0cd7f517dc1c2689e961345b71646868a68da7 [Файл]
+    ae [Директория]
+      0ca373b7ccc623a9f8461be4eeaad04e8e4edb [Файл]
+      de17ee45a9669dc204cb3da1f2ac884db9fb6c [Файл]
+    b0 [Директория]
+      2c4cb241bf88c7fc7b43af2f34e0f651c864fa [Файл]
+      93e1c129b591fd7d2c90411464d167bcd55171 [Файл]
+    b1 [Директория]
+      3d67684d1c1c7d60536eefa797474cc94214a2 [Файл]
+      903698fa74d17a01bc313d882ce529601d3c35 [Файл]
+      9f02e41d134e32fe304bb7d22b6bd179adeaad [Файл]
+    b2 [Директория]
+      e82f501d3d459232770e4a072756ecb3d43134 [Файл]
+      f077c5e7e9e0a5e874d77c202265573e4f8977 [Файл]
+      f13bca33dce8306f06c1751b35da72709cbe48 [Файл]
+    b3 [Директория]
+      bc134a47ed25decbd8e591bedc430d308bbc49 [Файл]
+    b4 [Директория]
+      b279bbdfeffb6d4bd61ce73cb368f5207f14ee [Файл]
+    b5 [Директория]
+      25a434b8ead3528850131a6c3d3514ad1774e3 [Файл]
+    b6 [Директория]
+      f8c6f5ad26c1a4d71e5257bab6c42ca9675452 [Файл]
+    b7 [Директория]
+      83be00d1fabf44b613dd4c50eff8b80f1cdfd6 [Файл]
+    b8 [Директория]
+      5ed12ae3f31d01f096e69fee3dd57a34d5295b [Файл]
+    ba [Директория]
+      5a2c496abe1d1514c5e90e7a75152813defa3b [Файл]
+      cb1e5ef2eaa2e54d1394400d41031d8693d44e [Файл]
+    bc [Директория]
+      835e2c75262f8db688d94e9eec8b56d2c2bdd7 [Файл]
+    bf [Директория]
+      4d8eb7a683eabfeb04faad90da4efef34609e3 [Файл]
+      598eb12a6416e3eac7db6b9f60f77a3ec38bed [Файл]
+    c3 [Директория]
+      4e2dc0c6bc1405400a7ba660c0e59677d1cf2b [Файл]
+      a7831f44a8cc57818417ec58d62441441a47b1 [Файл]
+    c5 [Директория]
+      ac96944c468e38f60cafc695a208e548df634a [Файл]
+    c7 [Директория]
+      3a3a00098db1b89757787ac33ea0013d85b314 [Файл]
+    c8 [Директория]
+      ee0e0a0c0a66eafdab20393127d491d677991f [Файл]
+    c9 [Директория]
+      5128ea48163d057daea9556e407a3cc42ed03c [Файл]
+    ca [Директория]
+      343739456b7a636bd819b5c50b4cceaebd58bf [Файл]
+      68b9a7c34663b9ce9375d6ef2fd176ae6d755f [Файл]
+      7dc5b75684a4bbdf8a0f1c748c2d93f2d0c223 [Файл]
+      99e1f1500ba7dddc06961d8451b45f881d96b3 [Файл]
+      beaeec1e3c1835ca819b829b120de950854512 [Файл]
+    cb [Директория]
+      97fb858a01f8049db1f09f777a9de65bcec288 [Файл]
+      d18abd943eaf093f3b21de994a06ffcf4e63a7 [Файл]
+    cc [Директория]
+      e69fb5c8983654235321112b051aedb608f56a [Файл]
+    cf [Директория]
+      642717a6809d561618dce9721bf51fb9e0cb98 [Файл]
+      702f5ef7aa3ff0e56b5d3bfca1ed86dd24cb35 [Файл]
+    d0 [Директория]
+      7c7627d2b7e29b949dd19c0f98e22efdbfc321 [Файл]
+      b1538c2c10f56bad4ca1f4e9ee77bc4b38d480 [Файл]
+    d1 [Директория]
+      f029223a0360cd66d8439b3bb62db9d8de4758 [Файл]
+    d4 [Директория]
+      bb2a7c6e022bcb574ea696934a2cbd84f5c16f [Файл]
+    d5 [Директория]
+      55ecb0741fbfa8bd94ffcd3f3930cdd1949874 [Файл]
+      cd442747af6433dbc781ee1bf5ffdd4ac14646 [Файл]
+    d8 [Директория]
+      846e7456852f8ada1761f56ab3d4f8a6031f2a [Файл]
+      934ac5c662f9bbb711ab6549296e4da304549a [Файл]
+      c69c6ab8395f96c4cdac07575e14d6b714f91b [Файл]
+    df [Директория]
+      999ab25af27f3ba83e1c5584dc5deb35106251 [Файл]
+    e1 [Директория]
+      4b99102d734cd216cd8821bd175d0c53207e44 [Файл]
+    e2 [Директория]
+      5d58bf0c5872b261b9f286a24cc410a76f5588 [Файл]
+    e4 [Директория]
+      332399e41253bdfff4a9ce6a70acd1034ee87d [Файл]
+    e9 [Директория]
+      080f13af8f25bb38f07c879fcb8db05d799132 [Файл]
+    eb [Директория]
+      1e33643d5afe59bbcd64d795d56b4bfadcb564 [Файл]
+      2a2fdfb2cf2cd53a8a3364aff62af1656f4479 [Файл]
+      e5d7347cddc5e98f3037aada01ed0d65348311 [Файл]
+    ee [Директория]
+      4cdd04cda5caadf6f15908bbd84da93506c34a [Файл]
+      59b8fe1da9f97542be0f6c3defaa094fe86e60 [Файл]
+    ef [Директория]
+      30c5a4ef9377cb856881e4b780bc989eca8bda [Файл]
+    f0 [Директория]
+      0656d714821ff89ad02931f6e9c3cec258c0c5 [Файл]
+      9e7be05b79ef6574ced1336d2cdb8fdfaa05ef [Файл]
+      d3a70ceaa69fb70811f58254dc738e0f939eac [Файл]
+    f4 [Директория]
+      5c00df5a18393df27ca2fd60346f915076dcc1 [Файл]
+    f6 [Директория]
+      85d9181312fcf1424a8ffe707eb2088d834d92 [Файл]
+      dfead53c67cb205eec803b99653c94d153f649 [Файл]
+    f7 [Директория]
+      da8bb5863b7cecec2adcdebd948fe2f9418d0c [Файл]
+    fc [Директория]
+      990c275f80126d22b25336e910ea926f773b73 [Файл]
+    fd [Директория]
+      546521b66327c0c493ee2943034754e1f609f9 [Файл]
+      c572aab59d5e74997cb81e747c218d91fcfd87 [Файл]
+    info [Директория]
+    pack [Директория]
+  ORIG_HEAD [Файл]
+  refs [Директория]
+    heads [Директория]
+      master [Файл]
+    remotes [Директория]
+      origin [Директория]
+        master [Файл]
+    tags [Директория]
+.gitattributes [Файл]
+.gitignore [Файл]
+.vs [Директория]
+  ProjectEvaluation [Директория]
+    requestbotlinux.metadata.v9.bin [Файл]
+    requestbotlinux.projects.v9.bin [Файл]
+    requestbotlinux.strings.v9.bin [Файл]
+  RequestBotLinux [Директория]
+    CopilotIndices [Директория]
+      17.14.698.11175 [Директория]
+        CodeChunks.db [Файл]
+        SemanticSymbols.db [Файл]
+    DesignTimeBuild [Директория]
+      .dtbcache.v2 [Файл]
+    FileContentIndex [Директория]
+      3ca471fc-ba24-4a1d-a5a1-8743a8732e4c.vsidx [Файл]
+      7d4012dd-5608-4a20-88a8-020aa6079b6e.vsidx [Файл]
+      c9614685-a9e2-41a6-a53e-d68baf0b836f.vsidx [Файл]
+      f26c7e3f-6010-4a47-8a53-a15c96b7e54d.vsidx [Файл]
+      f5a19363-2761-481d-b502-1776207cc085.vsidx [Файл]
+    v17 [Директория]
+      .futdcache.v2 [Файл]
+      .suo [Файл]
+      DocumentLayout.backup.json [Файл]
+      DocumentLayout.json [Файл]
+App.axaml [Файл]
+App.axaml.cs [Файл]
+  using System;
+  using System.IO;
+  using System.Text;
+  using System.Text.RegularExpressions;
+  using System.Threading;
+  using System.Threading.Tasks;
+  using Avalonia;
+  using Avalonia.Controls;
+  using Avalonia.Controls.ApplicationLifetimes;
+  using Avalonia.Markup.Xaml;
+  using Avalonia.Styling;
+  using Avalonia.Threading;
+  using MsBox.Avalonia;
+  using MsBox.Avalonia.Dto;
+  using MsBox.Avalonia.Enums;
+  using RequestBotLinux.Views;
+  using Telegram.Bot;
+  using Telegram.Bot.Polling;
+  using Telegram.Bot.Types;
+  
+  namespace RequestBotLinux
+  {
+      public static class StringExtensions
+      {
+          public static string Truncate(this string value, int maxLength, string suffix = "...")
+          {
+              if (string.IsNullOrEmpty(value)) return value;
+              return value.Length > maxLength
+                  ? value.Substring(0, maxLength - suffix.Length) + suffix
+                  : value;
+          }
+      }
+  
+      public partial class App : Application
+      {
+  
+          public static ThemeVariant CurrentTheme { get; private set; } = ThemeVariant.Light;
+  
+          public void SetTheme(ThemeVariant theme)
+          {
+              if (Current?.ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
+              {
+                  Current.RequestedThemeVariant = theme;
+                  foreach (var window in desktop.Windows)
+                  {
+                      window.RequestedThemeVariant = theme;
+                  }
+              }
+  
+              var actualTheme = theme == ThemeVariant.Light ? ThemeVariant.Light : theme;
+              var resources = Current.Resources;
+  
+              if (actualTheme == ThemeVariant.Dark)
+              {
+                  resources["PrimaryForeground"] = resources["DarkPrimaryForeground"];
+                  resources["PrimaryBackground"] = resources["DarkPrimaryBackground"];
+                  resources["PrimaryHoverBackground"] = resources["DarkPrimaryHoverBackground"];
+                  resources["PrimaryBackgroundGradient"] = resources["DarkPrimaryBackgroundGradient"];
+              }
+              else
+              {
+                  resources["PrimaryForeground"] = resources["LightPrimaryForeground"];
+                  resources["PrimaryBackground"] = resources["LightPrimaryBackground"];
+                  resources["PrimaryHoverBackground"] = resources["LightPrimaryHoverBackground"];
+                  resources["PrimaryBackgroundGradient"] = resources["LightPrimaryBackgroundGradient"];
+              }
+          }
+  
+          public static DataBase Database { get; private set; }
+          public static TelegramBotClient BotClient => _botClient;
+          private static TelegramBotClient _botClient;
+          private string taskHelp = "help";
+          private string taskDone = "Р—Р°СЏРІРєР° РїСЂРёРЅСЏС‚Р° РІ СЂР°Р±РѕС‚Сѓрџ‘Ќ";
+  
+  
+          public override void Initialize()
+          {
+              AvaloniaXamlLoader.Load(this);
+              // РЈР±СЂР°Р»Рё РІС‹Р·РѕРІ SetTheme Р·РґРµСЃСЊ
+              var dbPath = Path.Combine(
+                  Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData),
+                  "bot.db");
+              Database = new DataBase(dbPath);
+              Console.WriteLine($"Database path: {Database.DbPath}");
+          }
+  
+          public static event Action<string> BotStatusChanged;
+  
+          public override async void OnFrameworkInitializationCompleted()
+          {
+              // Р—Р°РіСЂСѓР¶Р°РµРј РІСЃРµ РЅР°СЃС‚СЂРѕР№РєРё, РІРєР»СЋС‡Р°СЏ С‚РµРјСѓ
+              var settings = SettingsManager.LoadSettings();
+              SetTheme(settings.Theme);
+  
+              if (ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
+              {
+                  desktop.MainWindow = new MainWindow();
+              }
+  
+              try
+              {
+                  if (!string.IsNullOrEmpty(settings.BotToken))
+                  {
+                      _botClient = new TelegramBotClient(settings.BotToken);
+                      var receiverOptions = new ReceiverOptions();
+  
+                      _botClient.StartReceiving(
+                          updateHandler: async (client, update, ct) => await HandleUpdateAsync(client, update, ct),
+                          errorHandler: async (client, exception, ct) => await HandleErrorAsync(client, exception, ct),
+                          receiverOptions: receiverOptions
+                      );
+  
+                      BotStatusChanged?.Invoke("[РЎРёСЃС‚РµРјР°] Р‘РѕС‚ СѓСЃРїРµС€РЅРѕ Р·Р°РїСѓС‰РµРЅ!");
+                  }
+                  else
+                  {
+                      BotStatusChanged?.Invoke("[РћС€РёР±РєР°] РўРѕРєРµРЅ Р±РѕС‚Р° РЅРµ РЅР°Р№РґРµРЅ. Р’РІРµРґРёС‚Рµ С‚РѕРєРµРЅ РІ РЅР°СЃС‚СЂРѕР№РєР°С….");
+                  }
+              }
+              catch (Exception ex)
+              {
+                  BotStatusChanged?.Invoke($"[РћС€РёР±РєР°] РќРµ СѓРґР°Р»РѕСЃСЊ РїРѕРґРєР»СЋС‡РёС‚СЊСЃСЏ Рє Р±РѕС‚Сѓ: {ex.Message}");
+              }
+  
+              base.OnFrameworkInitializationCompleted();
+          }
+  
+          private async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, CancellationToken ct)
+          {
+              long chatId = 0;
+              string messageText = string.Empty;
+              string username = "N/A";
+  
+              try
+              {
+                  if (update.Message is { } message)
+                  {
+                      var user = message.From;
+                      chatId = message.Chat.Id;
+                      messageText = message.Text ?? string.Empty;
+                      username = user?.Username ?? user?.Id.ToString() ?? "N/A";
+  
+                      // РћР±СЂР°Р±РѕС‚РєР° /start
+                      if (messageText.Contains("/start"))
+                      {
+                          await botClient.SendTextMessageAsync(chatId,
+                              "Р”Р»СЏ СЃРѕР·РґР°РЅРёСЏ Р·Р°СЏРІРєРё РёСЃРїРѕР»СЊР·СѓР№С‚Рµ:\n" +
+                              "help [Р¤Р°РјРёР»РёСЏ] [РљР°Р±РёРЅРµС‚] [РћРїРёСЃР°РЅРёРµ] [РЎСЂРѕРє]\n" +
+                              "РџСЂРёРјРµСЂ:\n" +
+                              "help РРІР°РЅРѕРІ 404 РќРµ СЂР°Р±РѕС‚Р°РµС‚ РїСЂРёРЅС‚РµСЂ 3 РґРЅСЏ");
+                          return; // Р’Р°Р¶РЅРѕ!
+                      }
+  
+                      // РћР±СЂР°Р±РѕС‚РєР° help
+                      if (messageText.ToLower().StartsWith(taskHelp.ToLower()))
+                      {
+                          var pattern = @"^help\s+([^\d]+?)\s+(\d+)\s+(.+?)(?:\s+(\d+)\s+(РґРµРЅСЊ|РґРЅСЏ|РґРЅРµР№|РјРµСЃСЏС†|РјРµСЃСЏС†Р°|РјРµСЃСЏС†РµРІ))?$";
+                          var match = Regex.Match(messageText, pattern, RegexOptions.IgnoreCase);
+  
+                          if (match.Success)
+                          {
+                              string lastName = match.Groups[1].Value.Trim();
+                              string cabinetNumber = match.Groups[2].Value.Trim();
+                              string description = match.Groups[3].Value.Trim();
+                              string urgencyValue = match.Groups[4].Success ? match.Groups[4].Value : null;
+                              string urgencyUnit = match.Groups[5].Success ? match.Groups[5].Value.ToLower() : null;
+  
+                              DateTime deadline = CalculateDeadline(urgencyValue, urgencyUnit);
+  
+                              if (!Database.CheckCabinetExists(cabinetNumber))
+                              {
+                                  await botClient.SendTextMessageAsync(chatId, "вљ пёЏ РљР°Р±РёРЅРµС‚ РЅРµ РЅР°Р№РґРµРЅ!");
+                                  return;
+                              }
+  
+                              await Database.AddTaskMessageAsync(
+                                  new RequestBotLinux.Models.User
+                                  {
+                                      Username = user.Username,
+                                      FirstName = user.FirstName,    // Р‘РµСЂРµРј РёРјСЏ РёР· Telegram
+                                      LastName = user.LastName      // Р‘РµСЂРµРј С„Р°РјРёР»РёСЋ РёР· Telegram
+                                  },
+                                  chatId,
+                                  lastName,
+                                  cabinetNumber,
+                                  description,
+                                  deadline
+                              );
+  
+  
+                              await botClient.SendTextMessageAsync(chatId, taskDone);
+                              return; // РџСЂРµСЂС‹РІР°РµРј РІС‹РїРѕР»РЅРµРЅРёРµ РїРѕСЃР»Рµ СѓСЃРїРµС€РЅРѕР№ РѕР±СЂР°Р±РѕС‚РєРё
+                          }
+                          else
+                          {
+                              await botClient.SendTextMessageAsync(chatId,
+                                  "вќЊ РќРµРІРµСЂРЅС‹Р№ С„РѕСЂРјР°С‚!\nРџСЂРёРјРµСЂ:\nhelp РРІР°РЅРѕРІ 404 РћРїРёСЃР°РЅРёРµ РїСЂРѕР±Р»РµРјС‹ 3 РґРЅСЏ");
+                              return; // РљР»СЋС‡РµРІРѕРµ РёСЃРїСЂР°РІР»РµРЅРёРµ: РґРѕР±Р°РІР»СЏРµРј return!
+                          }
+                      }
+  
+                      // РЎРѕС…СЂР°РЅРµРЅРёРµ РѕР±С‹С‡РЅС‹С… СЃРѕРѕР±С‰РµРЅРёР№ (С‚РѕР»СЊРєРѕ РµСЃР»Рё РЅРµ Р±С‹Р»Рѕ РєРѕРјР°РЅРґ)
+                      await Database.AddMessageAsync(
+                          user.Username ?? user.Id.ToString(),
+                          chatId,
+                          messageText
+                      );
+  
+                      // РћР±РЅРѕРІР»РµРЅРёРµ UI С‡РµСЂРµР· РґРёСЃРїРµС‚С‡РµСЂ
+                      await Dispatcher.UIThread.InvokeAsync(() =>
+                      {
+                          if (ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop &&
+                              desktop.MainWindow is MainWindow mainWindow)
+                          {
+                              mainWindow.LoadUsers();
+                              mainWindow.LoadMessages();
+  
+                              // Р’СЃРµРіРґР° РѕР±РЅРѕРІР»СЏРµРј РµСЃР»Рё РѕС‚РєСЂС‹С‚Р° С„РѕСЂРјР° СЃРѕРѕР±С‰РµРЅРёР№
+                              if (mainWindow.MainContent.Content is MainFormInstance mainForm)
+                              {
+                                  // РќРѕСЂРјР°Р»РёР·СѓРµРј username РґР»СЏ СЃСЂР°РІРЅРµРЅРёСЏ
+                                  var incomingUser = username.Trim().ToLower();
+                                  var currentUser = mainForm.CurrentUser?.Trim().ToLower();
+  
+                                  if (currentUser == incomingUser)
+                                  {
+                                      mainForm.RefreshMessages();
+                                  }
+                              }
+                          }
+                      });
+                  }
+              }
+              catch (Exception ex)
+              {
+                  string errorDetails = GetFullExceptionDetails(ex);
+  
+                  string errorMessage = $"рџ›‘ РџСЂРѕРёР·РѕС€Р»Р° РєСЂРёС‚РёС‡РµСЃРєР°СЏ РѕС€РёР±РєР° РїСЂРё РѕР±СЂР°Р±РѕС‚РєРµ СЃРѕРѕР±С‰РµРЅРёСЏ\n\n" +
+                                        $"в–«пёЏ Р§Р°С‚: {chatId}\n" +
+                                        $"в–«пёЏ РџРѕР»СЊР·РѕРІР°С‚РµР»СЊ: @{username}\n" +
+                                        $"в–«пёЏ РЎРѕРѕР±С‰РµРЅРёРµ: {messageText?.Truncate(100) ?? "N/A"}\n\n" +
+                                        $"рџ”§ Р”РµС‚Р°Р»Рё РѕС€РёР±РєРё:\n{errorDetails.Truncate(2000)}";
+  
+                  await ShowErrorPopup(errorMessage);
+              }
+          }
+  
+          // Р’СЃРїРѕРјРѕРіР°С‚РµР»СЊРЅС‹Рµ РјРµС‚РѕРґС‹
+          private static string GetFullExceptionDetails(Exception ex)
+          {
+              var sb = new StringBuilder();
+              int level = 0;
+              Exception current = ex;
+  
+              while (current != null)
+              {
+                  sb.AppendLine($"гЂђРЈСЂРѕРІРµРЅСЊ {level}гЂ‘");
+                  sb.AppendLine($"РўРёРї: {current.GetType().FullName}");
+                  sb.AppendLine($"РЎРѕРѕР±С‰РµРЅРёРµ: {current.Message}");
+                  sb.AppendLine($"РЎС‚РµРє РІС‹Р·РѕРІРѕРІ:\n{current.StackTrace?.Trim() ?? "N/A"}");
+                  sb.AppendLine(new string('-', 40));
+                  current = current.InnerException;
+                  level++;
+              }
+              return sb.ToString();
+          }
+  
+          private async Task ShowErrorPopup(string message)
+          {
+              await Dispatcher.UIThread.InvokeAsync(async () =>
+              {
+                  var box = MessageBoxManager.GetMessageBoxStandard(
+                      new MessageBoxStandardParams
+                      {
+                          ContentTitle = "РћС€РёР±РєР° РѕР±СЂР°Р±РѕС‚РєРё",
+                          ContentMessage = message,
+                          ButtonDefinitions = ButtonEnum.Ok,
+                          Icon = Icon.Error,
+                          WindowStartupLocation = WindowStartupLocation.CenterScreen,
+                          MaxWidth = 800,
+                          MaxHeight = 600,
+                          CanResize = true
+                      });
+  
+                  await box.ShowAsync();
+              });
+          }
+  
+          // Р Р°СЃС€РёСЂРµРЅРёРµ РґР»СЏ РѕР±СЂРµР·Р°РЅРёСЏ РґР»РёРЅРЅРѕРіРѕ С‚РµРєСЃС‚Р°
+  
+  
+          private DateTime CalculateDeadline(string urgencyValue, string urgencyUnit)
+          {
+              if (!int.TryParse(urgencyValue, out int value)) value = 1;
+  
+              return urgencyUnit switch
+              {
+                  "РґРµРЅСЊ" or "РґРЅСЏ" or "РґРЅРµР№" => DateTime.Now.AddDays(value),
+                  "РјРµСЃСЏС†" or "РјРµСЃСЏС†Р°" or "РјРµСЃСЏС†РµРІ" => DateTime.Now.AddMonths(value),
+                  _ => DateTime.Now.AddMonths(1)
+              };
+          }
+  
+          private async Task HandleErrorAsync(ITelegramBotClient botClient, Exception exception, CancellationToken ct)
+          {
+              new Window { Content = new TextBlock { Text = $"РћС€РёР±РєР° Р±РѕС‚Р°: {exception.Message}" } }.Show();
+              await Task.CompletedTask;
+          }
+          public static async Task<bool> CheckBotConnectionAsync()
+          {
+              if (_botClient == null) return false;
+  
+              try
+              {
+                  var bot = await _botClient.GetMeAsync();
+                  var me = await _botClient.GetMeAsync();
+                  Console.WriteLine($"Bot connected: {me.Username}");
+                  return bot.IsBot;
+              }
+              catch
+              {
+                  return false;
+              }
+  
+          }
+  
+      }
+  }
+
+app.manifest [Файл]
+Assets [Директория]
+  avalonia-logo.ico [Файл]
+  Fonts [Директория]
+    AkkoPro-Regular.ttf [Файл]
+    Phosphor-Bold.ttf [Файл]
+    Phosphor-Fill.ttf [Файл]
+    Phosphor.ttf [Файл]
+  Images [Директория]
+    author_qr.png [Файл]
+    chart-bar.svg [Файл]
+    chat-centered-text.svg [Файл]
+    check-fat.svg [Файл]
+    desk.svg [Файл]
+    house.svg [Файл]
+    qr-code.svg [Файл]
+    question.svg [Файл]
+    telegram_qr.png [Файл]
+bin [Директория]
+  Debug [Директория]
+    net8.0 [Директория]
+      Avalonia.Base.dll [Файл]
+      Avalonia.Controls.ColorPicker.dll [Файл]
+      Avalonia.Controls.dll [Файл]
+      Avalonia.DesignerSupport.dll [Файл]
+      Avalonia.Desktop.dll [Файл]
+      Avalonia.Diagnostics.dll [Файл]
+      Avalonia.Dialogs.dll [Файл]
+      Avalonia.dll [Файл]
+      Avalonia.Fonts.Inter.dll [Файл]
+      Avalonia.FreeDesktop.dll [Файл]
+      Avalonia.Markup.dll [Файл]
+      Avalonia.Markup.Xaml.dll [Файл]
+      Avalonia.Metal.dll [Файл]
+      Avalonia.MicroCom.dll [Файл]
+      Avalonia.Native.dll [Файл]
+      Avalonia.OpenGL.dll [Файл]
+      Avalonia.ReactiveUI.dll [Файл]
+      Avalonia.Remote.Protocol.dll [Файл]
+      Avalonia.Skia.dll [Файл]
+      Avalonia.Themes.Fluent.dll [Файл]
+      Avalonia.Themes.Simple.dll [Файл]
+      Avalonia.Vulkan.dll [Файл]
+      Avalonia.Win32.Automation.dll [Файл]
+      Avalonia.Win32.dll [Файл]
+      Avalonia.X11.dll [Файл]
+      ClosedXML.dll [Файл]
+      ClosedXML.Parser.dll [Файл]
+      DialogHost.Avalonia.dll [Файл]
+      DocumentFormat.OpenXml.dll [Файл]
+      DocumentFormat.OpenXml.Framework.dll [Файл]
+      DynamicData.dll [Файл]
+      EntityFramework.dll [Файл]
+      EntityFramework.SqlServer.dll [Файл]
+      ExcelNumberFormat.dll [Файл]
+      HarfBuzzSharp.dll [Файл]
+      LiveChartsCore.dll [Файл]
+      LiveChartsCore.SkiaSharpView.Avalonia.dll [Файл]
+      LiveChartsCore.SkiaSharpView.dll [Файл]
+      MicroCom.Runtime.dll [Файл]
+      Microsoft.Data.Sqlite.dll [Файл]
+      Microsoft.Extensions.Configuration.Abstractions.dll [Файл]
+      Microsoft.Extensions.Configuration.Binder.dll [Файл]
+      Microsoft.Extensions.Configuration.CommandLine.dll [Файл]
+      Microsoft.Extensions.Configuration.dll [Файл]
+      Microsoft.Extensions.Configuration.EnvironmentVariables.dll [Файл]
+      Microsoft.Extensions.Configuration.FileExtensions.dll [Файл]
+      Microsoft.Extensions.Configuration.Json.dll [Файл]
+      Microsoft.Extensions.Configuration.UserSecrets.dll [Файл]
+      Microsoft.Extensions.DependencyInjection.Abstractions.dll [Файл]
+      Microsoft.Extensions.DependencyInjection.dll [Файл]
+      Microsoft.Extensions.Diagnostics.Abstractions.dll [Файл]
+      Microsoft.Extensions.Diagnostics.dll [Файл]
+      Microsoft.Extensions.FileProviders.Abstractions.dll [Файл]
+      Microsoft.Extensions.FileProviders.Physical.dll [Файл]
+      Microsoft.Extensions.FileSystemGlobbing.dll [Файл]
+      Microsoft.Extensions.Hosting.Abstractions.dll [Файл]
+      Microsoft.Extensions.Hosting.dll [Файл]
+      Microsoft.Extensions.Logging.Abstractions.dll [Файл]
+      Microsoft.Extensions.Logging.Configuration.dll [Файл]
+      Microsoft.Extensions.Logging.Console.dll [Файл]
+      Microsoft.Extensions.Logging.Debug.dll [Файл]
+      Microsoft.Extensions.Logging.dll [Файл]
+      Microsoft.Extensions.Logging.EventLog.dll [Файл]
+      Microsoft.Extensions.Logging.EventSource.dll [Файл]
+      Microsoft.Extensions.Options.ConfigurationExtensions.dll [Файл]
+      Microsoft.Extensions.Options.dll [Файл]
+      Microsoft.Extensions.Primitives.dll [Файл]
+      Microsoft.Win32.SystemEvents.dll [Файл]
+      MsBox.Avalonia.dll [Файл]
+      RBush.dll [Файл]
+      ReactiveUI.dll [Файл]
+      RequestBotLinux.deps.json [Файл]
+      RequestBotLinux.dll [Файл]
+      RequestBotLinux.exe [Файл]
+      RequestBotLinux.pdb [Файл]
+      RequestBotLinux.runtimeconfig.json [Файл]
+      runtimes [Директория]
+        browser [Директория]
+          lib [Директория]
+            net8.0 [Директория]
+              System.Text.Encodings.Web.dll [Файл]
+        browser-wasm [Директория]
+          nativeassets [Директория]
+            net8.0 [Директория]
+              e_sqlite3.a [Файл]
+        linux-arm [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+            libHarfBuzzSharp.so [Файл]
+            libSkiaSharp.so [Файл]
+        linux-arm64 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+            libHarfBuzzSharp.so [Файл]
+            libSkiaSharp.so [Файл]
+        linux-armel [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-mips64 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-musl-arm [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-musl-arm64 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-musl-s390x [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-musl-x64 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+            libHarfBuzzSharp.so [Файл]
+            libSkiaSharp.so [Файл]
+        linux-ppc64le [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-s390x [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-x64 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+            libHarfBuzzSharp.so [Файл]
+            libSkiaSharp.so [Файл]
+            SQLite.Interop.dll [Файл]
+        linux-x86 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        maccatalyst-arm64 [Директория]
+          native [Директория]
+            libe_sqlite3.dylib [Файл]
+        maccatalyst-x64 [Директория]
+          native [Директория]
+            libe_sqlite3.dylib [Файл]
+        osx [Директория]
+          native [Директория]
+            libAvaloniaNative.dylib [Файл]
+            libHarfBuzzSharp.dylib [Файл]
+            libSkiaSharp.dylib [Файл]
+        osx-arm64 [Директория]
+          native [Директория]
+            libe_sqlite3.dylib [Файл]
+        osx-x64 [Директория]
+          native [Директория]
+            libe_sqlite3.dylib [Файл]
+            SQLite.Interop.dll [Файл]
+        unix [Директория]
+          lib [Директория]
+            netcoreapp2.1 [Директория]
+              System.Data.SqlClient.dll [Файл]
+            netcoreapp3.0 [Директория]
+              System.Drawing.Common.dll [Файл]
+        win [Директория]
+          lib [Директория]
+            net8.0 [Директория]
+              System.Diagnostics.EventLog.dll [Файл]
+              System.Diagnostics.EventLog.Messages.dll [Файл]
+            netcoreapp2.1 [Директория]
+              System.Data.SqlClient.dll [Файл]
+            netcoreapp3.0 [Директория]
+              Microsoft.Win32.SystemEvents.dll [Файл]
+              System.Drawing.Common.dll [Файл]
+              System.Windows.Extensions.dll [Файл]
+            netstandard2.0 [Директория]
+              System.Security.Cryptography.ProtectedData.dll [Файл]
+        win-arm [Директория]
+          native [Директория]
+            e_sqlite3.dll [Файл]
+        win-arm64 [Директория]
+          native [Директория]
+            av_libglesv2.dll [Файл]
+            e_sqlite3.dll [Файл]
+            libHarfBuzzSharp.dll [Файл]
+            libSkiaSharp.dll [Файл]
+            sni.dll [Файл]
+        win-x64 [Директория]
+          native [Директория]
+            av_libglesv2.dll [Файл]
+            e_sqlite3.dll [Файл]
+            libHarfBuzzSharp.dll [Файл]
+            libSkiaSharp.dll [Файл]
+            sni.dll [Файл]
+            SQLite.Interop.dll [Файл]
+        win-x86 [Директория]
+          native [Директория]
+            av_libglesv2.dll [Файл]
+            e_sqlite3.dll [Файл]
+            libHarfBuzzSharp.dll [Файл]
+            libSkiaSharp.dll [Файл]
+            sni.dll [Файл]
+            SQLite.Interop.dll [Файл]
+      SixLabors.Fonts.dll [Файл]
+      SkiaSharp.dll [Файл]
+      SkiaSharp.HarfBuzz.dll [Файл]
+      Splat.dll [Файл]
+      SQLitePCLRaw.batteries_v2.dll [Файл]
+      SQLitePCLRaw.core.dll [Файл]
+      SQLitePCLRaw.provider.e_sqlite3.dll [Файл]
+      System.CodeDom.dll [Файл]
+      System.Configuration.ConfigurationManager.dll [Файл]
+      System.Data.SqlClient.dll [Файл]
+      System.Data.SQLite.dll [Файл]
+      System.Data.SQLite.EF6.dll [Файл]
+      System.Diagnostics.DiagnosticSource.dll [Файл]
+      System.Diagnostics.EventLog.dll [Файл]
+      System.Drawing.Common.dll [Файл]
+      System.IO.Packaging.dll [Файл]
+      System.IO.Pipelines.dll [Файл]
+      System.Reactive.dll [Файл]
+      System.Security.Cryptography.ProtectedData.dll [Файл]
+      System.Security.Permissions.dll [Файл]
+      System.Text.Encodings.Web.dll [Файл]
+      System.Text.Json.dll [Файл]
+      System.Windows.Extensions.dll [Файл]
+      Telegram.Bot.dll [Файл]
+      Tmds.DBus.Protocol.dll [Файл]
+  Release [Директория]
+    net8.0 [Директория]
+      Avalonia.Base.dll [Файл]
+      Avalonia.Controls.dll [Файл]
+      Avalonia.DesignerSupport.dll [Файл]
+      Avalonia.Desktop.dll [Файл]
+      Avalonia.Dialogs.dll [Файл]
+      Avalonia.dll [Файл]
+      Avalonia.Fonts.Inter.dll [Файл]
+      Avalonia.FreeDesktop.dll [Файл]
+      Avalonia.Markup.dll [Файл]
+      Avalonia.Markup.Xaml.dll [Файл]
+      Avalonia.Metal.dll [Файл]
+      Avalonia.MicroCom.dll [Файл]
+      Avalonia.Native.dll [Файл]
+      Avalonia.OpenGL.dll [Файл]
+      Avalonia.ReactiveUI.dll [Файл]
+      Avalonia.Remote.Protocol.dll [Файл]
+      Avalonia.Skia.dll [Файл]
+      Avalonia.Themes.Fluent.dll [Файл]
+      Avalonia.Vulkan.dll [Файл]
+      Avalonia.Win32.Automation.dll [Файл]
+      Avalonia.Win32.dll [Файл]
+      Avalonia.X11.dll [Файл]
+      ClosedXML.dll [Файл]
+      ClosedXML.Parser.dll [Файл]
+      DialogHost.Avalonia.dll [Файл]
+      DocumentFormat.OpenXml.dll [Файл]
+      DocumentFormat.OpenXml.Framework.dll [Файл]
+      DynamicData.dll [Файл]
+      EntityFramework.dll [Файл]
+      EntityFramework.SqlServer.dll [Файл]
+      ExcelNumberFormat.dll [Файл]
+      HarfBuzzSharp.dll [Файл]
+      LiveChartsCore.dll [Файл]
+      LiveChartsCore.SkiaSharpView.Avalonia.dll [Файл]
+      LiveChartsCore.SkiaSharpView.dll [Файл]
+      MicroCom.Runtime.dll [Файл]
+      Microsoft.Data.Sqlite.dll [Файл]
+      Microsoft.Extensions.Configuration.Abstractions.dll [Файл]
+      Microsoft.Extensions.Configuration.Binder.dll [Файл]
+      Microsoft.Extensions.Configuration.CommandLine.dll [Файл]
+      Microsoft.Extensions.Configuration.dll [Файл]
+      Microsoft.Extensions.Configuration.EnvironmentVariables.dll [Файл]
+      Microsoft.Extensions.Configuration.FileExtensions.dll [Файл]
+      Microsoft.Extensions.Configuration.Json.dll [Файл]
+      Microsoft.Extensions.Configuration.UserSecrets.dll [Файл]
+      Microsoft.Extensions.DependencyInjection.Abstractions.dll [Файл]
+      Microsoft.Extensions.DependencyInjection.dll [Файл]
+      Microsoft.Extensions.Diagnostics.Abstractions.dll [Файл]
+      Microsoft.Extensions.Diagnostics.dll [Файл]
+      Microsoft.Extensions.FileProviders.Abstractions.dll [Файл]
+      Microsoft.Extensions.FileProviders.Physical.dll [Файл]
+      Microsoft.Extensions.FileSystemGlobbing.dll [Файл]
+      Microsoft.Extensions.Hosting.Abstractions.dll [Файл]
+      Microsoft.Extensions.Hosting.dll [Файл]
+      Microsoft.Extensions.Logging.Abstractions.dll [Файл]
+      Microsoft.Extensions.Logging.Configuration.dll [Файл]
+      Microsoft.Extensions.Logging.Console.dll [Файл]
+      Microsoft.Extensions.Logging.Debug.dll [Файл]
+      Microsoft.Extensions.Logging.dll [Файл]
+      Microsoft.Extensions.Logging.EventLog.dll [Файл]
+      Microsoft.Extensions.Logging.EventSource.dll [Файл]
+      Microsoft.Extensions.Options.ConfigurationExtensions.dll [Файл]
+      Microsoft.Extensions.Options.dll [Файл]
+      Microsoft.Extensions.Primitives.dll [Файл]
+      Microsoft.Win32.SystemEvents.dll [Файл]
+      MsBox.Avalonia.dll [Файл]
+      RBush.dll [Файл]
+      ReactiveUI.dll [Файл]
+      RequestBotLinux.deps.json [Файл]
+      RequestBotLinux.dll [Файл]
+      RequestBotLinux.exe [Файл]
+      RequestBotLinux.pdb [Файл]
+      RequestBotLinux.runtimeconfig.json [Файл]
+      runtimes [Директория]
+        browser [Директория]
+          lib [Директория]
+            net8.0 [Директория]
+              System.Text.Encodings.Web.dll [Файл]
+        browser-wasm [Директория]
+          nativeassets [Директория]
+            net8.0 [Директория]
+              e_sqlite3.a [Файл]
+        linux-arm [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+            libHarfBuzzSharp.so [Файл]
+            libSkiaSharp.so [Файл]
+        linux-arm64 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+            libHarfBuzzSharp.so [Файл]
+            libSkiaSharp.so [Файл]
+        linux-armel [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-mips64 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-musl-arm [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-musl-arm64 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-musl-s390x [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-musl-x64 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+            libHarfBuzzSharp.so [Файл]
+            libSkiaSharp.so [Файл]
+        linux-ppc64le [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-s390x [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        linux-x64 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+            libHarfBuzzSharp.so [Файл]
+            libSkiaSharp.so [Файл]
+            SQLite.Interop.dll [Файл]
+        linux-x86 [Директория]
+          native [Директория]
+            libe_sqlite3.so [Файл]
+        maccatalyst-arm64 [Директория]
+          native [Директория]
+            libe_sqlite3.dylib [Файл]
+        maccatalyst-x64 [Директория]
+          native [Директория]
+            libe_sqlite3.dylib [Файл]
+        osx [Директория]
+          native [Директория]
+            libAvaloniaNative.dylib [Файл]
+            libHarfBuzzSharp.dylib [Файл]
+            libSkiaSharp.dylib [Файл]
+        osx-arm64 [Директория]
+          native [Директория]
+            libe_sqlite3.dylib [Файл]
+        osx-x64 [Директория]
+          native [Директория]
+            libe_sqlite3.dylib [Файл]
+            SQLite.Interop.dll [Файл]
+        unix [Директория]
+          lib [Директория]
+            netcoreapp2.1 [Директория]
+              System.Data.SqlClient.dll [Файл]
+            netcoreapp3.0 [Директория]
+              System.Drawing.Common.dll [Файл]
+        win [Директория]
+          lib [Директория]
+            net8.0 [Директория]
+              System.Diagnostics.EventLog.dll [Файл]
+              System.Diagnostics.EventLog.Messages.dll [Файл]
+            netcoreapp2.1 [Директория]
+              System.Data.SqlClient.dll [Файл]
+            netcoreapp3.0 [Директория]
+              Microsoft.Win32.SystemEvents.dll [Файл]
+              System.Drawing.Common.dll [Файл]
+              System.Windows.Extensions.dll [Файл]
+            netstandard2.0 [Директория]
+              System.Security.Cryptography.ProtectedData.dll [Файл]
+        win-arm [Директория]
+          native [Директория]
+            e_sqlite3.dll [Файл]
+        win-arm64 [Директория]
+          native [Директория]
+            av_libglesv2.dll [Файл]
+            e_sqlite3.dll [Файл]
+            libHarfBuzzSharp.dll [Файл]
+            libSkiaSharp.dll [Файл]
+            sni.dll [Файл]
+        win-x64 [Директория]
+          native [Директория]
+            av_libglesv2.dll [Файл]
+            e_sqlite3.dll [Файл]
+            libHarfBuzzSharp.dll [Файл]
+            libSkiaSharp.dll [Файл]
+            sni.dll [Файл]
+            SQLite.Interop.dll [Файл]
+        win-x86 [Директория]
+          native [Директория]
+            av_libglesv2.dll [Файл]
+            e_sqlite3.dll [Файл]
+            libHarfBuzzSharp.dll [Файл]
+            libSkiaSharp.dll [Файл]
+            sni.dll [Файл]
+            SQLite.Interop.dll [Файл]
+      SixLabors.Fonts.dll [Файл]
+      SkiaSharp.dll [Файл]
+      SkiaSharp.HarfBuzz.dll [Файл]
+      Splat.dll [Файл]
+      SQLitePCLRaw.batteries_v2.dll [Файл]
+      SQLitePCLRaw.core.dll [Файл]
+      SQLitePCLRaw.provider.e_sqlite3.dll [Файл]
+      System.CodeDom.dll [Файл]
+      System.Configuration.ConfigurationManager.dll [Файл]
+      System.Data.SqlClient.dll [Файл]
+      System.Data.SQLite.dll [Файл]
+      System.Data.SQLite.EF6.dll [Файл]
+      System.Diagnostics.DiagnosticSource.dll [Файл]
+      System.Diagnostics.EventLog.dll [Файл]
+      System.Drawing.Common.dll [Файл]
+      System.IO.Packaging.dll [Файл]
+      System.IO.Pipelines.dll [Файл]
+      System.Reactive.dll [Файл]
+      System.Security.Cryptography.ProtectedData.dll [Файл]
+      System.Security.Permissions.dll [Файл]
+      System.Text.Encodings.Web.dll [Файл]
+      System.Text.Json.dll [Файл]
+      System.Windows.Extensions.dll [Файл]
+      Telegram.Bot.dll [Файл]
+      Tmds.DBus.Protocol.dll [Файл]
+  x64 [Директория]
+    Release [Директория]
+      net8.0 [Директория]
+        app_icon.ico [Файл]
+        Avalonia.Base.dll [Файл]
+        Avalonia.Controls.dll [Файл]
+        Avalonia.DesignerSupport.dll [Файл]
+        Avalonia.Desktop.dll [Файл]
+        Avalonia.Dialogs.dll [Файл]
+        Avalonia.dll [Файл]
+        Avalonia.Fonts.Inter.dll [Файл]
+        Avalonia.FreeDesktop.dll [Файл]
+        Avalonia.Markup.dll [Файл]
+        Avalonia.Markup.Xaml.dll [Файл]
+        Avalonia.Metal.dll [Файл]
+        Avalonia.MicroCom.dll [Файл]
+        Avalonia.Native.dll [Файл]
+        Avalonia.OpenGL.dll [Файл]
+        Avalonia.ReactiveUI.dll [Файл]
+        Avalonia.Remote.Protocol.dll [Файл]
+        Avalonia.Skia.dll [Файл]
+        Avalonia.Themes.Fluent.dll [Файл]
+        Avalonia.Vulkan.dll [Файл]
+        Avalonia.Win32.Automation.dll [Файл]
+        Avalonia.Win32.dll [Файл]
+        Avalonia.X11.dll [Файл]
+        ClosedXML.dll [Файл]
+        ClosedXML.Parser.dll [Файл]
+        DialogHost.Avalonia.dll [Файл]
+        DocumentFormat.OpenXml.dll [Файл]
+        DocumentFormat.OpenXml.Framework.dll [Файл]
+        DynamicData.dll [Файл]
+        EntityFramework.dll [Файл]
+        EntityFramework.SqlServer.dll [Файл]
+        ExcelNumberFormat.dll [Файл]
+        HarfBuzzSharp.dll [Файл]
+        LiveChartsCore.dll [Файл]
+        LiveChartsCore.SkiaSharpView.Avalonia.dll [Файл]
+        LiveChartsCore.SkiaSharpView.dll [Файл]
+        MicroCom.Runtime.dll [Файл]
+        Microsoft.Data.Sqlite.dll [Файл]
+        Microsoft.Extensions.Configuration.Abstractions.dll [Файл]
+        Microsoft.Extensions.Configuration.Binder.dll [Файл]
+        Microsoft.Extensions.Configuration.CommandLine.dll [Файл]
+        Microsoft.Extensions.Configuration.dll [Файл]
+        Microsoft.Extensions.Configuration.EnvironmentVariables.dll [Файл]
+        Microsoft.Extensions.Configuration.FileExtensions.dll [Файл]
+        Microsoft.Extensions.Configuration.Json.dll [Файл]
+        Microsoft.Extensions.Configuration.UserSecrets.dll [Файл]
+        Microsoft.Extensions.DependencyInjection.Abstractions.dll [Файл]
+        Microsoft.Extensions.DependencyInjection.dll [Файл]
+        Microsoft.Extensions.Diagnostics.Abstractions.dll [Файл]
+        Microsoft.Extensions.Diagnostics.dll [Файл]
+        Microsoft.Extensions.FileProviders.Abstractions.dll [Файл]
+        Microsoft.Extensions.FileProviders.Physical.dll [Файл]
+        Microsoft.Extensions.FileSystemGlobbing.dll [Файл]
+        Microsoft.Extensions.Hosting.Abstractions.dll [Файл]
+        Microsoft.Extensions.Hosting.dll [Файл]
+        Microsoft.Extensions.Logging.Abstractions.dll [Файл]
+        Microsoft.Extensions.Logging.Configuration.dll [Файл]
+        Microsoft.Extensions.Logging.Console.dll [Файл]
+        Microsoft.Extensions.Logging.Debug.dll [Файл]
+        Microsoft.Extensions.Logging.dll [Файл]
+        Microsoft.Extensions.Logging.EventLog.dll [Файл]
+        Microsoft.Extensions.Logging.EventSource.dll [Файл]
+        Microsoft.Extensions.Options.ConfigurationExtensions.dll [Файл]
+        Microsoft.Extensions.Options.dll [Файл]
+        Microsoft.Extensions.Primitives.dll [Файл]
+        Microsoft.Win32.SystemEvents.dll [Файл]
+        MsBox.Avalonia.dll [Файл]
+        RBush.dll [Файл]
+        ReactiveUI.dll [Файл]
+        RequestBotLinux.deps.json [Файл]
+        RequestBotLinux.dll [Файл]
+        RequestBotLinux.exe [Файл]
+        RequestBotLinux.pdb [Файл]
+        RequestBotLinux.runtimeconfig.json [Файл]
+        runtimes [Директория]
+          browser [Директория]
+            lib [Директория]
+              net8.0 [Директория]
+                System.Text.Encodings.Web.dll [Файл]
+          browser-wasm [Директория]
+            nativeassets [Директория]
+              net8.0 [Директория]
+                e_sqlite3.a [Файл]
+          linux-arm [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+              libHarfBuzzSharp.so [Файл]
+              libSkiaSharp.so [Файл]
+          linux-arm64 [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+              libHarfBuzzSharp.so [Файл]
+              libSkiaSharp.so [Файл]
+          linux-armel [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+          linux-mips64 [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+          linux-musl-arm [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+          linux-musl-arm64 [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+          linux-musl-s390x [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+          linux-musl-x64 [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+              libHarfBuzzSharp.so [Файл]
+              libSkiaSharp.so [Файл]
+          linux-ppc64le [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+          linux-s390x [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+          linux-x64 [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+              libHarfBuzzSharp.so [Файл]
+              libSkiaSharp.so [Файл]
+              SQLite.Interop.dll [Файл]
+          linux-x86 [Директория]
+            native [Директория]
+              libe_sqlite3.so [Файл]
+          maccatalyst-arm64 [Директория]
+            native [Директория]
+              libe_sqlite3.dylib [Файл]
+          maccatalyst-x64 [Директория]
+            native [Директория]
+              libe_sqlite3.dylib [Файл]
+          osx [Директория]
+            native [Директория]
+              libAvaloniaNative.dylib [Файл]
+              libHarfBuzzSharp.dylib [Файл]
+              libSkiaSharp.dylib [Файл]
+          osx-arm64 [Директория]
+            native [Директория]
+              libe_sqlite3.dylib [Файл]
+          osx-x64 [Директория]
+            native [Директория]
+              libe_sqlite3.dylib [Файл]
+              SQLite.Interop.dll [Файл]
+          unix [Директория]
+            lib [Директория]
+              netcoreapp2.1 [Директория]
+                System.Data.SqlClient.dll [Файл]
+              netcoreapp3.0 [Директория]
+                System.Drawing.Common.dll [Файл]
+          win [Директория]
+            lib [Директория]
+              net8.0 [Директория]
+                System.Diagnostics.EventLog.dll [Файл]
+                System.Diagnostics.EventLog.Messages.dll [Файл]
+              netcoreapp2.1 [Директория]
+                System.Data.SqlClient.dll [Файл]
+              netcoreapp3.0 [Директория]
+                Microsoft.Win32.SystemEvents.dll [Файл]
+                System.Drawing.Common.dll [Файл]
+                System.Windows.Extensions.dll [Файл]
+              netstandard2.0 [Директория]
+                System.Security.Cryptography.ProtectedData.dll [Файл]
+          win-arm [Директория]
+            native [Директория]
+              e_sqlite3.dll [Файл]
+          win-arm64 [Директория]
+            native [Директория]
+              av_libglesv2.dll [Файл]
+              e_sqlite3.dll [Файл]
+              libHarfBuzzSharp.dll [Файл]
+              libSkiaSharp.dll [Файл]
+              sni.dll [Файл]
+          win-x64 [Директория]
+            native [Директория]
+              av_libglesv2.dll [Файл]
+              e_sqlite3.dll [Файл]
+              libHarfBuzzSharp.dll [Файл]
+              libSkiaSharp.dll [Файл]
+              sni.dll [Файл]
+              SQLite.Interop.dll [Файл]
+          win-x86 [Директория]
+            native [Директория]
+              av_libglesv2.dll [Файл]
+              e_sqlite3.dll [Файл]
+              libHarfBuzzSharp.dll [Файл]
+              libSkiaSharp.dll [Файл]
+              sni.dll [Файл]
+              SQLite.Interop.dll [Файл]
+        SixLabors.Fonts.dll [Файл]
+        SkiaSharp.dll [Файл]
+        SkiaSharp.HarfBuzz.dll [Файл]
+        Splat.dll [Файл]
+        SQLitePCLRaw.batteries_v2.dll [Файл]
+        SQLitePCLRaw.core.dll [Файл]
+        SQLitePCLRaw.provider.e_sqlite3.dll [Файл]
+        System.CodeDom.dll [Файл]
+        System.Configuration.ConfigurationManager.dll [Файл]
+        System.Data.SqlClient.dll [Файл]
+        System.Data.SQLite.dll [Файл]
+        System.Data.SQLite.EF6.dll [Файл]
+        System.Diagnostics.DiagnosticSource.dll [Файл]
+        System.Diagnostics.EventLog.dll [Файл]
+        System.Drawing.Common.dll [Файл]
+        System.IO.Packaging.dll [Файл]
+        System.IO.Pipelines.dll [Файл]
+        System.Reactive.dll [Файл]
+        System.Security.Cryptography.ProtectedData.dll [Файл]
+        System.Security.Permissions.dll [Файл]
+        System.Text.Encodings.Web.dll [Файл]
+        System.Text.Json.dll [Файл]
+        System.Windows.Extensions.dll [Файл]
+        Telegram.Bot.dll [Файл]
+        Tmds.DBus.Protocol.dll [Файл]
+DataBase.cs [Файл]
+  using System;
+  using System.Collections.Generic;
+  using System.Data.SQLite;
+  using System.Diagnostics;
+  using System.IO;
+  using System.Threading.Tasks;
+  using Avalonia.Controls;
+  using RequestBotLinux.Models;
+  
+  
+  namespace RequestBotLinux
+  {
+      public class DataBase
+      {
+          public event Action MessageAdded;
+          private readonly string _connectionString;
+          public string DbPath { get; }
+          public DataBase(string dbPath)
+          {
+              try
+              {
+                  DbPath = dbPath;
+                  var directory = Path.GetDirectoryName(dbPath);
+                  if (!Directory.Exists(directory))
+                  {
+                      Directory.CreateDirectory(directory);
+                  }
+  
+                  _connectionString = $"Data Source={dbPath};Version=3;";
+                  InitializeDatabase();
+              }
+              catch (Exception ex)
+              {
+                  new Window { Content = new TextBlock { Text = $"РћС€РёР±РєР° РёРЅРёС†РёР°Р»РёР·Р°С†РёРё Р‘Р”: {ex.Message}" } }.Show();
+                  throw;
+              }
+          }
+          private void InitializeDatabase()
+          {
+              try
+              {
+                  using (var connection = new SQLiteConnection(_connectionString))
+                  {
+                      connection.Open();
+                      var command = new SQLiteCommand(@"
+          CREATE TABLE IF NOT EXISTS Users (
+              Username TEXT PRIMARY KEY,
+              FirstName TEXT,
+              LastName TEXT
+          );
+  
+          CREATE TABLE IF NOT EXISTS Messages (
+              Id INTEGER PRIMARY KEY AUTOINCREMENT,
+              Username TEXT NOT NULL,
+              ChatId INTEGER NOT NULL,
+              MessageText TEXT NOT NULL,
+              Timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+              IsTask BOOLEAN DEFAULT 0,
+              IsFromAdmin BOOLEAN DEFAULT 0,
+              Status TEXT DEFAULT 'None',
+              LastName TEXT,
+              CabinetNumber TEXT
+          );
+  
+          CREATE TABLE IF NOT EXISTS Cabinets (
+              Id INTEGER PRIMARY KEY AUTOINCREMENT,
+              Number TEXT NOT NULL UNIQUE,
+              Description TEXT
+          );
+  
+          CREATE TABLE IF NOT EXISTS Equipment (
+              Id INTEGER PRIMARY KEY AUTOINCREMENT,
+              Type TEXT NOT NULL,
+              Model TEXT NOT NULL,
+              OS TEXT,
+              CabinetId INTEGER,
+              ResponsibleEmployeeId INTEGER,
+              FOREIGN KEY(CabinetId) REFERENCES Cabinets(Id),
+              FOREIGN KEY(ResponsibleEmployeeId) REFERENCES Employees(Id)
+          );
+  
+          CREATE TABLE IF NOT EXISTS Employees (
+              Id INTEGER PRIMARY KEY AUTOINCREMENT,
+              FirstName TEXT NOT NULL,
+              LastName TEXT NOT NULL,
+              Position TEXT,
+              CabinetId INTEGER,
+              Username TEXT,
+              FOREIGN KEY(CabinetId) REFERENCES Cabinets(Id),
+              FOREIGN KEY(Username) REFERENCES Users(Username)
+          );", connection);
+                      command.ExecuteNonQuery();
+                      var migrateCmd = new SQLiteCommand(
+                          @"UPDATE Messages 
+                  SET IsFromAdmin = 0 
+                  WHERE IsFromAdmin IS NULL",
+                      connection);
+                      migrateCmd.ExecuteNonQuery();
+                      AddColumnIfNotExists(connection, "Messages", "FirstName", "TEXT");
+                      AddColumnIfNotExists(connection, "Messages", "Deadline", "DATETIME DEFAULT (datetime('now','+1 month'))");
+                  }
+              }
+              catch (Exception ex)
+              {
+                  new Window { Content = new TextBlock { Text = "РћС€РёР±РєР° РёРЅРёС†РёР°Р»РёР·Р°С†РёРё Р±Р°Р·С‹ РґР°РЅРЅС‹С…: " + ex.Message } }.Show();
+  
+              }
+          }
+          public async Task AddTaskMessageAsync(User user, long chatId, string lastName, string cabinet, string description, DateTime deadline)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  await connection.OpenAsync();
+  
+                  var command = new SQLiteCommand(
+                      @"INSERT INTO Messages 
+                  (Username, FirstName, ChatId, MessageText, IsTask, Status, LastName, CabinetNumber, Deadline, Timestamp) 
+              VALUES 
+                  (@username, @firstName, @chatId, @messageText, 1, 'Р’ СЂР°Р±РѕС‚Рµ', @lastName, @cabinet, @deadline, @timestamp)",
+                      connection);
+  
+                  command.Parameters.AddWithValue("@username", user.Username ?? "");
+                  command.Parameters.AddWithValue("@firstName", user.FirstName ?? "N/A"); // Р”РѕР±Р°РІР»РµРЅРѕ
+                  command.Parameters.AddWithValue("@chatId", chatId);
+                  command.Parameters.AddWithValue("@messageText", description);
+                  command.Parameters.AddWithValue("@lastName", lastName);
+                  command.Parameters.AddWithValue("@cabinet", cabinet);
+                  command.Parameters.AddWithValue("@deadline", deadline.ToString("yyyy-MM-dd HH:mm:ss"));
+                  command.Parameters.AddWithValue("@timestamp", DateTime.UtcNow.ToString("yyyy-MM-dd HH:mm:ss"));
+  
+                  await command.ExecuteNonQueryAsync();
+              }
+              MessageAdded?.Invoke();
+          }
+          public List<TaskData> GetAllTasks()
+          {
+              var tasks = new List<TaskData>();
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var command = new SQLiteCommand(
+                      @"SELECT 
+                  M.Id,
+                  M.Username,
+                  M.FirstName,
+                  M.MessageText,
+                  M.Status, 
+                  M.LastName,
+                  M.CabinetNumber,
+                  M.Timestamp,
+                  M.Deadline
+              FROM Messages M
+              WHERE M.IsTask = 1", connection);
+  
+                  using (var reader = command.ExecuteReader())
+                  {
+                      while (reader.Read())
+                      {
+                          tasks.Add(new TaskData
+                          {
+                              Id = Convert.ToInt32(reader["Id"]),
+                              Username = reader["Username"].ToString(),
+                              FirstName = reader["FirstName"].ToString(), // Р‘РµСЂРµРј РёР· Messages
+                              LastName = reader["LastName"].ToString(),
+                              CabinetNumber = reader["CabinetNumber"].ToString(),
+                              MessageText = reader["MessageText"].ToString(),
+                              Status = reader["Status"].ToString(),
+                              Timestamp = DateTime.Parse(reader["Timestamp"].ToString()).ToLocalTime(),
+                              Deadline = reader["Deadline"] is DBNull
+                                  ? DateTime.Parse(reader["Timestamp"].ToString()).AddMonths(1)
+                                  : DateTime.Parse(reader["Deadline"].ToString())
+                          });
+                      }
+                  }
+              }
+              return tasks;
+          }
+          public void UpdateTaskStatus(int taskId, string status)
+          {
+  
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var command = new SQLiteCommand(
+                      "UPDATE Messages SET Status = @status WHERE Id = @id",
+                      connection);
+                  command.Parameters.AddWithValue("@status", status);
+                  command.Parameters.AddWithValue("@id", taskId);
+                  command.ExecuteNonQuery();
+              }
+          }
+          public void DeleteTask(int taskId)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var command = new SQLiteCommand(
+                      "DELETE FROM Messages WHERE Id = @id",
+                      connection);
+                  command.Parameters.AddWithValue("@id", taskId);
+                  command.ExecuteNonQuery();
+              }
+          }
+          // Р’СЂРµРјРµРЅРЅРѕ РёР·РјРµРЅРёС‚Рµ РјРµС‚РѕРґ РґРѕР±Р°РІР»РµРЅРёСЏ СЃРѕРѕР±С‰РµРЅРёР№ РґР»СЏ С‚РµСЃС‚Р°
+          public async Task AddMessageAsync(string username, long chatId, string messageText)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  await connection.OpenAsync();
+                  var command = new SQLiteCommand(
+                      @"INSERT INTO Messages 
+                  (Username, ChatId, MessageText, Timestamp) 
+                  VALUES 
+                  (@username, @chatId, @messageText, @timestamp)",
+                      connection);
+  
+                  // Р”РѕР±Р°РІСЊС‚Рµ СЌС‚Рё СЃС‚СЂРѕРєРё:
+                  command.Parameters.AddWithValue("@username", username);
+                  command.Parameters.AddWithValue("@chatId", chatId);
+                  command.Parameters.AddWithValue("@messageText", messageText);
+                  command.Parameters.AddWithValue("@timestamp", DateTime.UtcNow.ToString("yyyy-MM-dd HH:mm:ss"));
+  
+                  await command.ExecuteNonQueryAsync();
+              }
+          }
+          public List<string> GetUniqueUsers()
+          {
+              var users = new List<string>();
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var command = new SQLiteCommand("SELECT DISTINCT Username FROM Messages WHERE IsFromAdmin = 0", connection);
+                  using (var reader = command.ExecuteReader())
+                  {
+                      while (reader.Read())
+                      {
+                          string username = reader["Username"].ToString();
+                          if (!string.IsNullOrEmpty(username))
+                              users.Add(username);
+                      }
+                  }
+              }
+              return users;
+          }
+  
+          public List<MessageData> GetMessagesByUsername(string username)
+          {
+              var messages = new List<MessageData>();
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var command = new SQLiteCommand(
+                      @"SELECT 
+                  MessageText, 
+                  strftime('%Y-%m-%d %H:%M:%S', Timestamp) as Timestamp,
+                  IsFromAdmin,
+                  Username
+                  FROM Messages 
+                  WHERE Username = @username
+                  ORDER BY Timestamp",
+                      connection);
+  
+                  command.Parameters.AddWithValue("@username", username);
+  
+                  using (var reader = command.ExecuteReader())
+                  {
+                      while (reader.Read())
+                      {
+                          messages.Add(new MessageData
+                          {
+                              Username = reader["Username"].ToString(),
+                              MessageText = reader["MessageText"].ToString(),
+                              Timestamp = DateTime.Parse(reader["Timestamp"].ToString()),
+                              IsFromAdmin = Convert.ToBoolean(reader["IsFromAdmin"])
+                          });
+                      }
+                  }
+              }
+              return messages;
+          }
+          public bool CheckCabinetExists(string cabinetNumber)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var cmd = new SQLiteCommand(
+                      "SELECT COUNT(*) FROM Cabinets WHERE Number = @number",
+                      connection);
+                  cmd.Parameters.AddWithValue("@number", cabinetNumber);
+                  return Convert.ToInt32(cmd.ExecuteScalar()) > 0;
+              }
+          }
+          public long GetChatIdByUsername(string username)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var command = new SQLiteCommand(
+                      "SELECT ChatId FROM Messages WHERE Username = @username ORDER BY Timestamp DESC LIMIT 1",
+                      connection);
+                  command.Parameters.AddWithValue("@username", username);
+                  var result = command.ExecuteScalar();
+                  return result != null ? Convert.ToInt64(result) : 0;
+              }
+          }
+          public async Task AddOutgoingMessageAsync(string username, long chatId, string messageText)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  await connection.OpenAsync();
+                  var command = new SQLiteCommand(
+                      @"INSERT INTO Messages 
+          (Username, ChatId, MessageText, IsFromAdmin) 
+        VALUES 
+          (@username, @chatId, @messageText, 1)", connection);
+  
+                  command.Parameters.AddWithValue("@username", username);
+                  command.Parameters.AddWithValue("@chatId", chatId);
+                  command.Parameters.AddWithValue("@messageText", messageText);
+  
+                  await command.ExecuteNonQueryAsync();
+              }
+              MessageAdded?.Invoke();
+          }
+          private void AddColumnIfNotExists(SQLiteConnection connection, string table, string column, string type)
+          {
+              var cmdCheck = new SQLiteCommand(
+                  $"PRAGMA table_info({table})",
+                  connection);
+  
+              using (var reader = cmdCheck.ExecuteReader())
+              {
+                  while (reader.Read())
+                  {
+                      if (reader["name"].ToString() == column) return;
+                  }
+              }
+  
+              var cmdAdd = new SQLiteCommand(
+                  $"ALTER TABLE {table} ADD COLUMN {column} {type}",
+                  connection);
+              cmdAdd.ExecuteNonQuery();
+          }
+          public int DeleteMessagesByPeriod(string username, TimeSpan period)
+          {
+              try
+              {
+                  var cutoff = DateTime.Now - period;
+  
+                  using (var conn = new SQLiteConnection(_connectionString))
+                  {
+                      conn.Open();
+                      var cmd = new SQLiteCommand(@"
+              DELETE FROM Messages 
+              WHERE Username = @Username 
+              AND Timestamp < @Cutoff 
+              AND NOT (IsTask = 1 AND Status != 'Completed')", conn);
+                      cmd.Parameters.AddWithValue("@Username", username);
+                      cmd.Parameters.AddWithValue("@Cutoff", cutoff.ToString("yyyy-MM-dd HH:mm:ss"));
+                      return cmd.ExecuteNonQuery();
+                  }
+  
+              }
+              catch (Exception ex)
+              {
+                  Debug.WriteLine($"[DELETE ERROR] {ex}");
+                  return 0;
+              }
+          }
+          public List<MessageData> GetAllMessages()
+          {
+              var messages = new List<MessageData>();
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var command = new SQLiteCommand(
+                      @"SELECT Username, MessageText, Timestamp, IsFromAdmin 
+                FROM Messages 
+                ORDER BY Timestamp DESC",
+                      connection);
+  
+                  using (var reader = command.ExecuteReader())
+                  {
+                      while (reader.Read())
+                      {
+                          messages.Add(new MessageData
+                          {
+                              Username = reader["Username"].ToString(),
+                              MessageText = reader["MessageText"].ToString(),
+                              Timestamp = DateTime.Parse(reader["Timestamp"].ToString()),
+                              IsFromAdmin = Convert.ToBoolean(reader["IsFromAdmin"])
+                          });
+                      }
+                  }
+              }
+              return messages;
+          }
+          // РџРѕР»СѓС‡РµРЅРёРµ РІСЃРµС… РєР°Р±РёРЅРµС‚РѕРІ
+          public List<Cabinet> GetAllCabinets()
+          {
+              var cabinets = new List<Cabinet>();
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var cmd = new SQLiteCommand("SELECT * FROM Cabinets", connection);
+                  using (var reader = cmd.ExecuteReader())
+                  {
+                      while (reader.Read())
+                      {
+                          cabinets.Add(new Cabinet
+                          {
+                              Id = Convert.ToInt32(reader["Id"]),
+                              Number = reader["Number"].ToString(),
+                              Description = reader["Description"].ToString()
+                          });
+                      }
+                  }
+              }
+              return cabinets;
+          }
+  
+          // Р”РѕР±Р°РІР»РµРЅРёРµ РєР°Р±РёРЅРµС‚Р°
+          public void AddCabinet(Cabinet cabinet)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var cmd = new SQLiteCommand(
+                      "INSERT INTO Cabinets (Number, Description) VALUES (@num, @desc)",
+                      connection);
+                  cmd.Parameters.AddWithValue("@num", cabinet.Number);
+                  cmd.Parameters.AddWithValue("@desc", cabinet.Description);
+                  cmd.ExecuteNonQuery();
+              }
+          }
+          public void UpdateCabinet(Cabinet cabinet)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var cmd = new SQLiteCommand(
+                      "UPDATE Cabinets SET Number = @num, Description = @desc WHERE Id = @id",
+                      connection);
+                  cmd.Parameters.AddWithValue("@num", cabinet.Number);
+                  cmd.Parameters.AddWithValue("@desc", cabinet.Description);
+                  cmd.Parameters.AddWithValue("@id", cabinet.Id);
+                  cmd.ExecuteNonQuery();
+              }
+          }
+          public void AddEmployee(Employees employee)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var cmd = new SQLiteCommand(
+                      "INSERT INTO Employees (FirstName, LastName, Position, CabinetId, Username) " +
+                      "VALUES (@fn, @ln, @pos, @cid, @user)", connection);
+  
+                  cmd.Parameters.AddWithValue("@fn", employee.FirstName);
+                  cmd.Parameters.AddWithValue("@ln", employee.LastName);
+                  cmd.Parameters.AddWithValue("@pos", employee.Position);
+                  cmd.Parameters.AddWithValue("@cid", employee.CabinetId);
+                  cmd.Parameters.AddWithValue("@user", employee.Username ?? (object)DBNull.Value);
+                  cmd.ExecuteNonQuery();
+              }
+          }
+          public int AddEquipment(Equipment equipment)
+          {
+              using (var conn = new SQLiteConnection(_connectionString))
+              {
+                  conn.Open();
+                  var cmd = new SQLiteCommand(@"
+              INSERT INTO Equipment 
+                  (Type, Model, OS, CabinetId) 
+              VALUES 
+                  (@type, @model, @os, @cabinetId);
+              SELECT last_insert_rowid();", conn);
+  
+                  // РџР°СЂР°РјРµС‚СЂС‹ СЃ СЏРІРЅРѕР№ РѕР±СЂР°Р±РѕС‚РєРѕР№ NULL
+                  cmd.Parameters.AddWithValue("@type", equipment.Type);
+                  cmd.Parameters.AddWithValue("@model", equipment.Model);
+                  cmd.Parameters.AddWithValue("@os", equipment.OS ?? (object)DBNull.Value);
+                  cmd.Parameters.AddWithValue("@cabinetId", equipment.CabinetId);
+  
+                  return Convert.ToInt32(cmd.ExecuteScalar());
+              }
+          }
+  
+          // РџРѕР»СѓС‡РµРЅРёРµ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ РґР»СЏ РєР°Р±РёРЅРµС‚Р°
+          public List<Employees> GetEmployeesForCabinet(int cabinetId)
+          {
+              var employees = new List<Employees>();
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var cmd = new SQLiteCommand(
+                      "SELECT * FROM Employees WHERE CabinetId = @cabinetId",
+                      connection);
+                  cmd.Parameters.AddWithValue("@cabinetId", cabinetId);
+  
+                  using (var reader = cmd.ExecuteReader())
+                  {
+                      while (reader.Read())
+                      {
+                          employees.Add(new Employees
+                          {
+                              Id = Convert.ToInt32(reader["Id"]),
+                              FirstName = reader["FirstName"].ToString(),
+                              LastName = reader["LastName"].ToString(),
+                              Position = reader["Position"].ToString(),
+                              CabinetId = Convert.ToInt32(reader["CabinetId"]),
+                              Username = reader["Username"] is DBNull ? null : reader["Username"].ToString()
+                          });
+                      }
+                  }
+              }
+              return employees;
+          }
+          public List<string> GetUsersForCabinet(int cabinetId)
+          {
+              var users = new List<string>();
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var cmd = new SQLiteCommand(
+                      "SELECT DISTINCT Username FROM Messages WHERE CabinetNumber = @cab",
+                      connection);
+                  cmd.Parameters.AddWithValue("@cab", cabinetId.ToString());
+                  using (var reader = cmd.ExecuteReader())
+                  {
+                      while (reader.Read())
+                      {
+                          users.Add(reader["Username"].ToString());
+                      }
+                  }
+              }
+              return users;
+          }
+          public List<Equipment> GetEquipmentForCabinet(int cabinetId)
+          {
+              var equipment = new List<Equipment>();
+              using (var conn = new SQLiteConnection(_connectionString))
+              {
+                  conn.Open();
+                  var cmd = new SQLiteCommand(
+                      "SELECT * FROM Equipment WHERE CabinetId = @cabinetId",
+                      conn);
+                  cmd.Parameters.AddWithValue("@cabinetId", cabinetId);
+  
+                  using (var reader = cmd.ExecuteReader())
+                  {
+                      while (reader.Read())
+                      {
+                          equipment.Add(new Equipment
+                          {
+                              Id = Convert.ToInt32(reader["Id"]),
+                              Type = reader["Type"].ToString(),
+                              Model = reader["Model"].ToString(),
+                              OS = reader["OS"] is DBNull ? null : reader["OS"].ToString(),
+                              CabinetId = Convert.ToInt32(reader["CabinetId"])
+                          });
+                      }
+                  }
+              }
+              return equipment;
+          }
+  
+          public Cabinet GetCabinetById(int id)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var cmd = new SQLiteCommand("SELECT * FROM Cabinets WHERE Id = @id", connection);
+                  cmd.Parameters.AddWithValue("@id", id);
+                  using (var reader = cmd.ExecuteReader())
+                  {
+                      if (reader.Read())
+                      {
+                          return new Cabinet
+                          {
+                              Id = Convert.ToInt32(reader["Id"]),
+                              Number = reader["Number"].ToString(),
+                              Description = reader["Description"].ToString()
+                          };
+                      }
+                  }
+              }
+              return null;
+          }
+          public List<string> GetAllUsers()
+          {
+              var usernames = new List<string>();
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var cmd = new SQLiteCommand("SELECT Username FROM Users", connection);
+                  using (var reader = cmd.ExecuteReader())
+                  {
+                      while (reader.Read())
+                      {
+                          usernames.Add(reader["Username"].ToString());
+                      }
+                  }
+              }
+              return usernames;
+          }
+          public Employees GetEmployeeById(int id)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var command = new SQLiteCommand(
+                      "SELECT * FROM Employees WHERE Id = @id",
+                      connection);
+                  command.Parameters.AddWithValue("@id", id);
+  
+                  using (var reader = command.ExecuteReader())
+                  {
+                      if (reader.Read())
+                      {
+                          return new Employees
+                          {
+                              Id = Convert.ToInt32(reader["Id"]),
+                              FirstName = reader["FirstName"].ToString(),
+                              LastName = reader["LastName"].ToString(),
+                              Position = reader["Position"].ToString(),
+                              Username = reader["Username"].ToString(),
+                              CabinetId = Convert.ToInt32(reader["CabinetId"])
+                          };
+                      }
+                  }
+              }
+              return null;
+          }
+          public void UpdateEmployee(Employees employee)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var cmd = new SQLiteCommand(
+                      @"UPDATE Employees SET 
+                      FirstName = @fn,
+                      LastName = @ln,
+                      Position = @pos,
+                      Username = @user
+                  WHERE Id = @id", connection);
+  
+                  cmd.Parameters.AddWithValue("@fn", employee.FirstName);
+                  cmd.Parameters.AddWithValue("@ln", employee.LastName);
+                  cmd.Parameters.AddWithValue("@pos", employee.Position);
+                  cmd.Parameters.AddWithValue("@user", employee.Username ?? (object)DBNull.Value);
+                  cmd.Parameters.AddWithValue("@id", employee.Id);
+                  cmd.ExecuteNonQuery();
+              }
+          }
+          public Equipment GetEquipmentById(int id)
+          {
+              using (var conn = new SQLiteConnection(_connectionString))
+              {
+                  conn.Open();
+                  var cmd = new SQLiteCommand(@"
+              SELECT 
+                  Id, Type, Model, OS, CabinetId
+              FROM Equipment 
+              WHERE Id = @id", conn);
+                  cmd.Parameters.AddWithValue("@id", id);
+  
+                  using (var reader = cmd.ExecuteReader())
+                  {
+                      if (reader.Read())
+                      {
+                          return new Equipment
+                          {
+                              Id = Convert.ToInt32(reader["Id"]),
+                              Type = reader["Type"].ToString(),
+                              Model = reader["Model"].ToString(),
+                              OS = reader["OS"] is DBNull ? null : reader["OS"].ToString(),
+                              CabinetId = Convert.ToInt32(reader["CabinetId"])
+                          };
+                      }
+                      return null;
+                  }
+              }
+          }
+          public void UpdateEquipment(Equipment equipment)
+          {
+              using (var conn = new SQLiteConnection(_connectionString))
+              {
+                  conn.Open();
+                  var cmd = new SQLiteCommand(@"
+              UPDATE Equipment 
+              SET 
+                  Type = @type,
+                  Model = @model,
+                  OS = @os
+              WHERE Id = @id", conn);
+  
+                  cmd.Parameters.AddWithValue("@type", equipment.Type);
+                  cmd.Parameters.AddWithValue("@model", equipment.Model);
+                  cmd.Parameters.AddWithValue("@os", equipment.OS ?? (object)DBNull.Value);
+                  cmd.Parameters.AddWithValue("@id", equipment.Id);
+  
+                  cmd.ExecuteNonQuery();
+              }
+          }
+          public void DeleteDatabase()
+          {
+              try
+              {
+                  SQLiteConnection.ClearAllPools(); // Р—Р°РєСЂС‹С‚СЊ РІСЃРµ СЃРѕРµРґРёРЅРµРЅРёСЏ
+                  if (File.Exists(DbPath))
+                  {
+                      File.Delete(DbPath); // РЈРґР°Р»РёС‚СЊ С„Р°Р№Р» Р±Р°Р·С‹
+                  }
+                  InitializeDatabase(); // РџРµСЂРµСЃРѕР·РґР°С‚СЊ СЃС‚СЂСѓРєС‚СѓСЂСѓ
+              }
+              catch (Exception ex)
+              {
+                  Debug.WriteLine($"[DELETE DATABASE ERROR] {ex}");
+                  throw;
+              }
+          }
+          public void DeleteEmployee(int employeeId)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  using (var transaction = connection.BeginTransaction())
+                  {
+                      try
+                      {
+                          // РЈРґР°Р»СЏРµРј СЃРІСЏР·Р°РЅРЅС‹Рµ Р·Р°РїРёСЃРё РёР· Equipment (РµСЃР»Рё РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ РїСЂРёРІСЏР·Р°РЅРѕ Рє СЃРѕС‚СЂСѓРґРЅРёРєСѓ)
+                          var deleteEquipmentCmd = connection.CreateCommand();
+                          deleteEquipmentCmd.CommandText = "DELETE FROM Equipment WHERE EmployeeId = @employeeId";
+                          deleteEquipmentCmd.Parameters.AddWithValue("@employeeId", employeeId);
+                          deleteEquipmentCmd.ExecuteNonQuery();
+  
+                          // РЈРґР°Р»СЏРµРј СЃР°РјРѕРіРѕ СЃРѕС‚СЂСѓРґРЅРёРєР°
+                          var deleteEmployeeCmd = connection.CreateCommand();
+                          deleteEmployeeCmd.CommandText = "DELETE FROM Employees WHERE Id = @id";
+                          deleteEmployeeCmd.Parameters.AddWithValue("@id", employeeId);
+                          deleteEmployeeCmd.ExecuteNonQuery();
+  
+                          transaction.Commit();
+                      }
+                      catch
+                      {
+                          transaction.Rollback();
+                          throw;
+                      }
+                  }
+              }
+          }
+  
+          public void DeleteEquipment(int equipmentId)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  using (var command = connection.CreateCommand())
+                  {
+                      command.CommandText = "DELETE FROM Equipment WHERE Id = @id";
+                      command.Parameters.AddWithValue("@id", equipmentId);
+                      command.ExecuteNonQuery();
+                  }
+              }
+          }
+          public void DeleteCabinet(int id)
+          {
+              using (var connection = new SQLiteConnection(_connectionString))
+              {
+                  connection.Open();
+                  var command = new SQLiteCommand("DELETE FROM Cabinets WHERE Id = @id", connection);
+                  command.Parameters.AddWithValue("@id", id);
+                  command.ExecuteNonQuery();
+              }
+          }
+      }
+  }
+
+Models [Директория]
+  Cabinet.cs [Файл]
+    namespace RequestBotLinux.Models
+    {
+        public class Cabinet
+        {
+            public int Id { get; set; }
+            public string Number { get; set; } = string.Empty;
+            public string Description { get; set; } = string.Empty;
+        }
+    }
+
+  Employees.cs [Файл]
+    namespace RequestBotLinux.Models
+    {
+        public class Employees
+        {
+            public int Id { get; set; }
+            public string Username { get; set; } = string.Empty;
+            public string FirstName { get; set; } = string.Empty;
+            public string LastName { get; set; } = string.Empty;
+            public string Position { get; set; } = string.Empty;
+            public int CabinetId { get; set; }
+        }
+    }
+
+  Equipment.cs [Файл]
+    namespace RequestBotLinux.Models
+    {
+        public class Equipment
+        {
+            public int Id { get; set; }
+            public string Type { get; set; } = string.Empty;
+            public string Model { get; set; } = string.Empty;
+            public string OS { get; set; } = string.Empty;
+            public int CabinetId { get; set; }
+        }
+    }
+
+  MessageData.cs [Файл]
+    using System;
+    
+    namespace RequestBotLinux.Models
+    {
+        public class MessageData
+        {
+            public string Username { get; set; }
+            public string MessageText { get; set; }
+            public DateTime Timestamp { get; set; }
+            public bool IsFromAdmin { get; set; }
+        }
+    }
+
+  TaskData.cs [Файл]
+    using System;
+    
+    namespace RequestBotLinux.Models
+    {
+        public class TaskData
+        {
+            public int Id { get; set; }
+            public string Username { get; set; }
+            public string MessageText { get; set; }
+            public string Status { get; set; }
+            public string FirstName { get; set; }
+            public string LastName { get; set; }
+            public string CabinetNumber { get; set; }
+            public DateTime Timestamp { get; set; }
+            public DateTime Deadline { get; set; }
+    
+        }
+    }
+
+  User.cs [Файл]
+    namespace RequestBotLinux.Models
+    {
+        public class User
+        {
+            public string Username { get; set; } = string.Empty;
+            public string FirstName { get; set; } = string.Empty;
+            public string LastName { get; set; } = string.Empty;
+        }
+    }
+
+obj [Директория]
+  Debug [Директория]
+    net8.0 [Директория]
+      .NETCoreApp,Version=v8.0.AssemblyAttributes.cs [Файл]
+        // <autogenerated />
+        using System;
+        using System.Reflection;
+        [assembly: global::System.Runtime.Versioning.TargetFrameworkAttribute(".NETCoreApp,Version=v8.0", FrameworkDisplayName = ".NET 8.0")]
+
+      apphost.exe [Файл]
+      Avalonia [Директория]
+        references [Файл]
+        resources [Файл]
+        Resources.Inputs.cache [Файл]
+      ref [Директория]
+        RequestBotLinux.dll [Файл]
+      refint [Директория]
+        RequestBotLinux.dll [Файл]
+      RequestB.ACE7C2CF.Up2Date [Файл]
+      RequestBotLinux.AssemblyInfo.cs [Файл]
+        //------------------------------------------------------------------------------
+        // <auto-generated>
+        //     This code was generated by a tool.
+        //     Runtime Version:4.0.30319.42000
+        //
+        //     Changes to this file may cause incorrect behavior and will be lost if
+        //     the code is regenerated.
+        // </auto-generated>
+        //------------------------------------------------------------------------------
+        
+        using System;
+        using System.Reflection;
+        
+        [assembly: System.Reflection.AssemblyCompanyAttribute("RequestBotLinux")]
+        [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+        [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+        [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00179fd9b5292087c3f007bd9de1f16b7277a789")]
+        [assembly: System.Reflection.AssemblyProductAttribute("RequestBotLinux")]
+        [assembly: System.Reflection.AssemblyTitleAttribute("RequestBotLinux")]
+        [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+        
+        // Generated by the MSBuild WriteCodeFragment class.
+        
+
+      RequestBotLinux.AssemblyInfoInputs.cache [Файл]
+      RequestBotLinux.assets.cache [Файл]
+      RequestBotLinux.csproj.AssemblyReference.cache [Файл]
+      RequestBotLinux.csproj.BuildWithSkipAnalyzers [Файл]
+      RequestBotLinux.csproj.CoreCompileInputs.cache [Файл]
+      RequestBotLinux.csproj.FileListAbsolute.txt [Файл]
+      RequestBotLinux.dll [Файл]
+      RequestBotLinux.GeneratedMSBuildEditorConfig.editorconfig [Файл]
+      RequestBotLinux.genruntimeconfig.cache [Файл]
+      RequestBotLinux.pdb [Файл]
+      RequestBotLinux.sourcelink.json [Файл]
+  project.assets.json [Файл]
+  project.nuget.cache [Файл]
+  Release [Директория]
+    net8.0 [Директория]
+      .NETCoreApp,Version=v8.0.AssemblyAttributes.cs [Файл]
+        // <autogenerated />
+        using System;
+        using System.Reflection;
+        [assembly: global::System.Runtime.Versioning.TargetFrameworkAttribute(".NETCoreApp,Version=v8.0", FrameworkDisplayName = ".NET 8.0")]
+
+      apphost.exe [Файл]
+      Avalonia [Директория]
+        references [Файл]
+        resources [Файл]
+        Resources.Inputs.cache [Файл]
+      ref [Директория]
+        RequestBotLinux.dll [Файл]
+      refint [Директория]
+        RequestBotLinux.dll [Файл]
+      RequestB.ACE7C2CF.Up2Date [Файл]
+      RequestBotLinux.AssemblyInfo.cs [Файл]
+        //------------------------------------------------------------------------------
+        // <auto-generated>
+        //     This code was generated by a tool.
+        //     Runtime Version:4.0.30319.42000
+        //
+        //     Changes to this file may cause incorrect behavior and will be lost if
+        //     the code is regenerated.
+        // </auto-generated>
+        //------------------------------------------------------------------------------
+        
+        using System;
+        using System.Reflection;
+        
+        [assembly: System.Reflection.AssemblyCompanyAttribute("RequestBotLinux")]
+        [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+        [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+        [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00179fd9b5292087c3f007bd9de1f16b7277a789")]
+        [assembly: System.Reflection.AssemblyProductAttribute("RequestBotLinux")]
+        [assembly: System.Reflection.AssemblyTitleAttribute("RequestBotLinux")]
+        [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+        
+        // Generated by the MSBuild WriteCodeFragment class.
+        
+
+      RequestBotLinux.AssemblyInfoInputs.cache [Файл]
+      RequestBotLinux.assets.cache [Файл]
+      RequestBotLinux.csproj.AssemblyReference.cache [Файл]
+      RequestBotLinux.csproj.BuildWithSkipAnalyzers [Файл]
+      RequestBotLinux.csproj.CoreCompileInputs.cache [Файл]
+      RequestBotLinux.csproj.FileListAbsolute.txt [Файл]
+      RequestBotLinux.dll [Файл]
+      RequestBotLinux.GeneratedMSBuildEditorConfig.editorconfig [Файл]
+      RequestBotLinux.genruntimeconfig.cache [Файл]
+      RequestBotLinux.pdb [Файл]
+      RequestBotLinux.sourcelink.json [Файл]
+  RequestBotLinux.csproj.nuget.dgspec.json [Файл]
+  RequestBotLinux.csproj.nuget.g.props [Файл]
+  RequestBotLinux.csproj.nuget.g.targets [Файл]
+  x64 [Директория]
+    Release [Директория]
+      net8.0 [Директория]
+        .NETCoreApp,Version=v8.0.AssemblyAttributes.cs [Файл]
+          // <autogenerated />
+          using System;
+          using System.Reflection;
+          [assembly: global::System.Runtime.Versioning.TargetFrameworkAttribute(".NETCoreApp,Version=v8.0", FrameworkDisplayName = ".NET 8.0")]
+
+        apphost.exe [Файл]
+        Avalonia [Директория]
+          references [Файл]
+          resources [Файл]
+          Resources.Inputs.cache [Файл]
+        ref [Директория]
+          RequestBotLinux.dll [Файл]
+        refint [Директория]
+          RequestBotLinux.dll [Файл]
+        RequestB.ACE7C2CF.Up2Date [Файл]
+        RequestBotLinux.AssemblyInfo.cs [Файл]
+          //------------------------------------------------------------------------------
+          // <auto-generated>
+          //     This code was generated by a tool.
+          //     Runtime Version:4.0.30319.42000
+          //
+          //     Changes to this file may cause incorrect behavior and will be lost if
+          //     the code is regenerated.
+          // </auto-generated>
+          //------------------------------------------------------------------------------
+          
+          using System;
+          using System.Reflection;
+          
+          [assembly: System.Reflection.AssemblyCompanyAttribute("RequestBotLinux")]
+          [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+          [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+          [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00179fd9b5292087c3f007bd9de1f16b7277a789")]
+          [assembly: System.Reflection.AssemblyProductAttribute("RequestBotLinux")]
+          [assembly: System.Reflection.AssemblyTitleAttribute("RequestBotLinux")]
+          [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+          
+          // Generated by the MSBuild WriteCodeFragment class.
+          
+
+        RequestBotLinux.AssemblyInfoInputs.cache [Файл]
+        RequestBotLinux.assets.cache [Файл]
+        RequestBotLinux.csproj.AssemblyReference.cache [Файл]
+        RequestBotLinux.csproj.CoreCompileInputs.cache [Файл]
+        RequestBotLinux.csproj.FileListAbsolute.txt [Файл]
+        RequestBotLinux.dll [Файл]
+        RequestBotLinux.GeneratedMSBuildEditorConfig.editorconfig [Файл]
+        RequestBotLinux.genruntimeconfig.cache [Файл]
+        RequestBotLinux.pdb [Файл]
+        RequestBotLinux.sourcelink.json [Файл]
+Program.cs [Файл]
+  using System;
+  using Avalonia;
+  using Avalonia.ReactiveUI;
+  
+  namespace RequestBotLinux
+  {
+      internal sealed class Program
+      {
+          // Initialization code. Don't use any Avalonia, third-party APIs or any
+          // SynchronizationContext-reliant code before AppMain is called: things aren't initialized
+          // yet and stuff might break.
+          [STAThread]
+          public static void Main(string[] args) => BuildAvaloniaApp()
+              .StartWithClassicDesktopLifetime(args);
+  
+          // Avalonia configuration, don't remove; also used by visual designer.
+          public static AppBuilder BuildAvaloniaApp()
+              => AppBuilder.Configure<App>()
+                  .UsePlatformDetect()
+                  .WithInterFont()
+                  .LogToTrace()
+                  .UseReactiveUI();
+      }
+  }
+
+RequestBotLinux.csproj [Файл]
+RequestBotLinux.sln [Файл]
+SettingsData.cs [Файл]
+  using System;
+  using System.Text.Json;
+  using System.Text.Json.Serialization;
+  using Avalonia.Styling;
+  
+  namespace RequestBotLinux
+  {
+      public class SettingsData
+      {
+          [JsonConverter(typeof(ThemeVariantConverter))]
+          public ThemeVariant Theme { get; set; } = ThemeVariant.Light;
+          public string BotToken { get; set; } = string.Empty;
+      }
+      public class ThemeVariantConverter : JsonConverter<ThemeVariant>
+      {
+          public override ThemeVariant Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options)
+          {
+              if (reader.TokenType == JsonTokenType.String)
+              {
+                  string value = reader.GetString();
+                  return value == "Dark" ? ThemeVariant.Dark : ThemeVariant.Light;
+              }
+              else if (reader.TokenType == JsonTokenType.StartObject)
+              {
+                  using (JsonDocument doc = JsonDocument.ParseValue(ref reader))
+                  {
+                      var root = doc.RootElement;
+                      if (root.TryGetProperty("Key", out var key))
+                      {
+                          string keyValue = key.GetString();
+                          return keyValue == "Dark" ? ThemeVariant.Dark : ThemeVariant.Light;
+                      }
+                  }
+              }
+  
+              return ThemeVariant.Light;
+          }
+  
+          public override void Write(Utf8JsonWriter writer, ThemeVariant value, JsonSerializerOptions options)
+          {
+              writer.WriteStringValue(value == ThemeVariant.Dark ? "Dark" : "Light");
+          }
+      }
+  
+  }
+
+SettingsManager.cs [Файл]
+  using System;
+  using System.IO;
+  using System.Text.Json;
+  
+  namespace RequestBotLinux
+  {
+      public static class SettingsManager
+      {
+          private static readonly string SettingsPath = Path.Combine(
+          Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData),
+          "RequestBot",
+          "settings.json");
+  
+          public static SettingsData LoadSettings()
+          {
+              try
+              {
+                  if (!File.Exists(SettingsPath))
+                      return new SettingsData();
+  
+                  var json = File.ReadAllText(SettingsPath);
+                  return JsonSerializer.Deserialize<SettingsData>(json) ?? new SettingsData();
+              }
+              catch (Exception ex)
+              {
+                  Console.WriteLine($"Error loading settings: {ex.Message}");
+                  return new SettingsData();
+              }
+          }
+  
+          public static void SaveSettings(SettingsData data)
+          {
+              try
+              {
+                  var directory = Path.GetDirectoryName(SettingsPath);
+                  Directory.CreateDirectory(directory ?? throw new InvalidOperationException());
+                  var json = JsonSerializer.Serialize(data);
+                  File.WriteAllText(SettingsPath, json);
+              }
+              catch (Exception ex)
+              {
+                  Console.WriteLine($"Error saving settings: {ex.Message}");
+              }
+          }
+      }
+  }
+
+Styles [Директория]
+  AppDefaultStyles.axaml [Файл]
+ViewLocator.cs [Файл]
+  using System;
+  using Avalonia.Controls;
+  using Avalonia.Controls.Templates;
+  using RequestBotLinux.ViewModels;
+  
+  namespace RequestBotLinux
+  {
+      public class ViewLocator : IDataTemplate
+      {
+  
+          public Control? Build(object? param)
+          {
+              if (param is null)
+                  return null;
+  
+              var name = param.GetType().FullName!.Replace("ViewModel", "View", StringComparison.Ordinal);
+              name = name.Replace("ViewModels", "Views");
+              var type = Type.GetType(name);
+  
+              if (type != null)
+              {
+                  return (Control)Activator.CreateInstance(type)!;
+              }
+  
+              return new TextBlock { Text = "Not Found: " + name };
+          }
+  
+          public bool Match(object? data)
+          {
+              return data is ViewModelBase;
+          }
+      }
+  }
+
+ViewModels [Директория]
+  MainFormViewModel.cs [Файл]
+    using System.Collections.ObjectModel;
+    using System.ComponentModel;
+    using System.Runtime.CompilerServices;
+    
+    namespace RequestBotLinux.ViewModels
+    {
+        public class MainFormViewModel : INotifyPropertyChanged
+        {
+            private string _messagesText = "";
+            public string MessagesText
+            {
+                get => _messagesText;
+                set
+                {
+                    _messagesText = value;
+                    OnPropertyChanged();
+                }
+            }
+    
+            public ObservableCollection<string> Users { get; } = new();
+    
+            public event PropertyChangedEventHandler? PropertyChanged;
+            protected virtual void OnPropertyChanged([CallerMemberName] string? propertyName = null)
+                => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+    
+        }
+    
+    }
+
+  MainWindowViewModel.cs [Файл]
+    namespace RequestBotLinux.ViewModels
+    {
+        public class MainWindowViewModel : ViewModelBase
+        {
+    
+        }
+    }
+
+  MessagesViewModel.cs [Файл]
+    using System.Collections.Generic;
+    using ReactiveUI;
+    using RequestBotLinux.Models;
+    
+    namespace RequestBotLinux.ViewModels
+    {
+        public class MessagesViewModel : ViewModelBase
+        {
+            private List<MessageData> _allMessages;
+            public List<MessageData> AllMessages
+            {
+                get => _allMessages;
+                set => this.RaiseAndSetIfChanged(ref _allMessages, value);
+            }
+    
+            public MessagesViewModel()
+            {
+                LoadMessages();
+            }
+    
+            private void LoadMessages()
+            {
+                AllMessages = App.Database.GetAllMessages();
+            }
+    
+        }
+    }
+
+  ViewModelBase.cs [Файл]
+    using ReactiveUI;
+    
+    namespace RequestBotLinux.ViewModels
+    {
+        public class ViewModelBase : ReactiveObject
+        {
+        }
+    }
+
+Views [Директория]
+  AnalyticsView.axaml [Файл]
+  AnalyticsView.axaml.cs [Файл]
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using Avalonia.Controls;
+    using LiveChartsCore;
+    using LiveChartsCore.SkiaSharpView;
+    using LiveChartsCore.SkiaSharpView.Avalonia;
+    using LiveChartsCore.SkiaSharpView.Painting;
+    using SkiaSharp;
+    
+    namespace RequestBotLinux;
+    
+    public partial class AnalyticsView : UserControl
+    {
+        private readonly DataBase _database;
+        private ComboBox _statusFilterComboBox;
+        private ComboBox _timeFilterComboBox;
+        private PieChart _statusChart;
+        private CartesianChart _cabinetChart;
+        private string _currentTimeFilter = "month";
+    
+        public AnalyticsView(DataBase database)
+        {
+            _database = database;
+            InitializeComponent();
+            InitializeControls();
+            LoadData();
+        }
+    
+        private void InitializeControls()
+        {
+            // Инициализация фильтров
+            _statusFilterComboBox = this.Find<ComboBox>("StatusFilterComboBox");
+            _timeFilterComboBox = this.Find<ComboBox>("TimeFilterComboBox");
+    
+            _statusFilterComboBox.SelectionChanged += (s, e) => UpdateCharts();
+            _timeFilterComboBox.SelectionChanged += (s, e) =>
+            {
+                _currentTimeFilter = _timeFilterComboBox.SelectedIndex == 0 ? "month" : "week";
+                UpdateCharts();
+            };
+    
+            // Инициализация графиков
+            _statusChart = new PieChart();
+            _cabinetChart = new CartesianChart();
+    
+            // Добавление графиков в XAML-контейнеры
+            var statusTabContent = this.Find<Border>("StatusChartContainer");
+            statusTabContent.Child = _statusChart;
+    
+            var cabinetTabContent = this.Find<Border>("CabinetChartContainer");
+            cabinetTabContent.Child = _cabinetChart;
+        }
+    
+        private void LoadData()
+        {
+            UpdateStatusChart(GetCurrentStatusFilter());
+            UpdateCabinetChart(GetCurrentStatusFilter());
+        }
+    
+        private void UpdateCharts()
+        {
+            var filter = GetCurrentStatusFilter();
+            UpdateStatusChart(filter);
+            UpdateCabinetChart(filter);
+        }
+    
+        private string GetCurrentStatusFilter()
+        {
+            if (_statusFilterComboBox.SelectedItem is ComboBoxItem selectedItem)
+                return selectedItem.Content?.ToString() ?? "Все";
+            return "Все";
+        }
+    
+        private void UpdateStatusChart(string statusFilter)
+        {
+            var stats = GetStatusStatistics(statusFilter);
+            var series = new List<ISeries>();
+    
+            if (stats.Count == 0)
+            {
+                series.Add(new PieSeries<int>
+                {
+                    Values = new[] { 1 },
+                    Name = "Нет данных",
+                    Fill = new SolidColorPaint(SKColors.LightGray)
+                });
+            }
+            else
+            {
+                foreach (var stat in stats)
+                {
+                    series.Add(new PieSeries<int>
+                    {
+                        Values = new[] { stat.Value },
+                        Name = stat.Key,
+                        DataLabelsPaint = new SolidColorPaint(SKColors.Black),
+                        DataLabelsPosition = LiveChartsCore.Measure.PolarLabelsPosition.Outer,
+                        // Изменено P1 на P2 для двух знаков после запятой
+                        DataLabelsFormatter = point => $"{point.StackedValue.Share:P2}",
+                        Fill = new SolidColorPaint(GetColorForStatus(stat.Key))
+                    });
+                }
+            }
+    
+            _statusChart.Series = series;
+        }
+        private void UpdateCabinetChart(string statusFilter)
+        {
+            var cabinetStats = GetCabinetStatistics(statusFilter);
+    
+            var series = new ColumnSeries<double>
+            {
+                Values = cabinetStats.Select(c => c.Value).ToArray(),
+                Name = "Задачи",
+                DataLabelsPaint = new SolidColorPaint(SKColors.Black),
+                DataLabelsPosition = LiveChartsCore.Measure.DataLabelsPosition.Top,
+                // Форматирование с двумя знаками после запятой
+                DataLabelsFormatter = point => $"{point.Coordinate.PrimaryValue:N2}%"
+            };
+    
+            _cabinetChart.XAxes = new List<Axis>
+        {
+            new Axis
+            {
+                Labels = cabinetStats.Select(c => c.Key).ToArray(),
+                LabelsRotation = 45,
+                TextSize = 12
+            }
+        };
+    
+            _cabinetChart.YAxes = new List<Axis>
+        {
+            new Axis
+            {
+                Labeler = value => $"{value}%",
+                MaxLimit = 100
+            }
+        };
+    
+            _cabinetChart.Series = new List<ISeries> { series };
+        }
+    
+        private SKColor GetColorForStatus(string status)
+        {
+            return status switch
+            {
+                "Завершено" => SKColors.LightGreen,
+                "В работе" => SKColors.Orange,
+                _ => SKColors.Gray
+            };
+        }
+    
+        private Dictionary<string, int> GetStatusStatistics(string filter)
+        {
+            var allTasks = _database.GetAllTasks();
+    
+            var filteredByTime = allTasks.Where(t =>
+                _currentTimeFilter == "month"
+                    ? t.Timestamp >= DateTime.Now.AddMonths(-1)
+                    : t.Timestamp >= DateTime.Now.AddDays(-7));
+    
+            var filtered = filteredByTime.Where(t =>
+                filter == "Все" ||
+                (filter == "Завершено" && t.Status == "Завершено") ||
+                (filter == "Не завершено" && t.Status != "Завершено"));
+    
+            return filtered
+                .GroupBy(t => t.Status)
+                .ToDictionary(g => g.Key, g => g.Count());
+        }
+    
+        private Dictionary<string, double> GetCabinetStatistics(string filter)
+        {
+            var allTasks = _database.GetAllTasks();
+    
+            var filteredByTime = allTasks.Where(t =>
+                _currentTimeFilter == "month"
+                    ? t.Timestamp >= DateTime.Now.AddMonths(-1)
+                    : t.Timestamp >= DateTime.Now.AddDays(-7));
+    
+            var filteredByStatus = filteredByTime.Where(t =>
+                filter == "Все" ||
+                (filter == "Завершено" && t.Status == "Завершено") ||
+                (filter == "Не завершено" && t.Status != "Завершено"));
+    
+            var total = filteredByStatus.Count();
+    
+            return filteredByStatus
+                .GroupBy(t => t.CabinetNumber)
+                .ToDictionary(
+                    g => g.Key,
+                    g => total > 0 ? (g.Count() / (double)total) * 100 : 0
+                );
+        }
+    
+    }
+
+  CabinetsWindow.axaml [Файл]
+  CabinetsWindow.axaml.cs [Файл]
+    using System;
+    using System.Collections.Generic;
+    using System.Globalization;
+    using System.Linq;
+    using System.Threading.Tasks;
+    using Avalonia;
+    using Avalonia.Controls;
+    using Avalonia.Data.Converters;
+    using Avalonia.Input;
+    using Avalonia.Interactivity;
+    using Avalonia.Layout;
+    using Avalonia.Media;
+    using ClosedXML.Excel;
+    using MsBox.Avalonia;
+    using MsBox.Avalonia.Dto;
+    using MsBox.Avalonia.Enums;
+    using RequestBotLinux.Models;
+    
+    namespace RequestBotLinux;
+    
+    public partial class CabinetsWindow : UserControl
+    {
+        private string _currentFilter = string.Empty;
+    
+        public CabinetsWindow()
+        {
+            InitializeComponent();
+            LoadCabinets();
+            FilterTextBox.TextChanged += FilterTextBox_TextChanged;
+    
+            treeViewCabinets.KeyDown += TreeViewCabinets_KeyDown;
+        }
+        private async void TreeViewCabinets_KeyDown(object? sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Delete)
+            {
+                if (treeViewCabinets.SelectedItem is TreeViewItem selectedItem
+                    && selectedItem.Tag is NodeInfo nodeInfo)
+                {
+                    await DeleteNode(nodeInfo);
+                }
+            }
+        }
+        private async Task DeleteNode(NodeInfo nodeInfo)
+        {
+            string message = "";
+            string title = "";
+    
+            switch (nodeInfo.Type)
+            {
+                // Удаление сотрудника
+                case NodeType.Employee:
+                    title = "Удаление сотрудника";
+                    message = "Вы точно хотите удалить сотрудника?";
+                    break;
+    
+                // Удаление оборудования
+                case NodeType.EquipmentItem:
+                    title = "Удаление оборудования";
+                    message = "Вы точно хотите удалить оборудование?";
+                    break;
+    
+                // Удаление кабинета
+                case NodeType.Cabinet:
+                    title = "Удаление кабинета";
+                    message = "Вы точно хотите удалить кабинет?";
+                    break;
+    
+                default:
+                    return; // Неподдерживаемый тип
+            }
+    
+    
+    
+            var confirmBox = MessageBoxManager.GetMessageBoxStandard(
+            new MessageBoxStandardParams
+            {
+                ButtonDefinitions = ButtonEnum.YesNo,
+                ContentTitle = title,
+                ContentMessage = message,
+                Icon = Icon.Question,
+                WindowStartupLocation = WindowStartupLocation.CenterOwner
+            });
+    
+            var result = await confirmBox.ShowWindowDialogAsync((Window)VisualRoot);
+    
+            if (result == ButtonResult.Yes)
+            {
+                switch (nodeInfo.Type)
+                {
+                    case NodeType.Employee:
+                        App.Database.DeleteEmployee(nodeInfo.Id);
+                        break;
+    
+                    case NodeType.EquipmentItem:
+                        App.Database.DeleteEquipment(nodeInfo.Id);
+                        break;
+    
+                    // Добавленный блок для удаления кабинета
+                    case NodeType.Cabinet:
+                        App.Database.DeleteCabinet(nodeInfo.Id);
+                        break;
+                }
+    
+                LoadCabinets(); // Обновляем список
+            }
+    
+        }
+        private void FilterTextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            _currentFilter = FilterTextBox.Text?.Trim() ?? string.Empty;
+            LoadCabinets();
+        }
+    
+        private void ClearFilterClick(object sender, RoutedEventArgs e)
+        {
+            FilterTextBox.Text = string.Empty;
+        }
+    
+    
+        private void LoadCabinets()
+        {
+            treeViewCabinets.Items.Clear();
+            var cabinets = App.Database.GetAllCabinets();
+            bool hasFilter = !string.IsNullOrWhiteSpace(_currentFilter);
+    
+            if (cabinets.Count == 0)
+            {
+                treeViewCabinets.Items.Add(new TreeViewItem
+                {
+                    Header = new TextBlock
+                    {
+                        Text = "Кабинеты не найдены",
+                        Foreground = Brushes.White
+                    }
+                });
+                return;
+            }
+    
+            foreach (var cab in cabinets)
+            {
+                // Проверка соответствия кабинета фильтру
+                bool cabMatches = !hasFilter ||
+                    ContainsIgnoreCase(cab.Number, _currentFilter) ||
+                    ContainsIgnoreCase(cab.Description, _currentFilter);
+    
+                // Фильтрация сотрудников
+                var employees = App.Database.GetEmployeesForCabinet(cab.Id)
+                    .Where(e => !hasFilter ||
+                        ContainsIgnoreCase(e.FirstName, _currentFilter) ||
+                        ContainsIgnoreCase(e.LastName, _currentFilter) ||
+                        ContainsIgnoreCase(e.Position, _currentFilter))
+                    .ToList();
+    
+                // Фильтрация оборудования
+                var equipment = App.Database.GetEquipmentForCabinet(cab.Id)
+                    .Where(eq => !hasFilter ||
+                        ContainsIgnoreCase(eq.Model, _currentFilter) ||
+                        ContainsIgnoreCase(eq.OS, _currentFilter))
+                    .ToList();
+    
+                // Показывать кабинет если он или его содержимое совпадает с фильтром
+                if (!hasFilter || cabMatches || employees.Count > 0 || equipment.Count > 0)
+                {
+                    var cabinetNode = CreateCabinetNode(cab, employees, equipment, hasFilter);
+                    treeViewCabinets.Items.Add(cabinetNode);
+                }
+            }
+        }
+    
+    
+        private TreeViewItem CreateCabinetNode(
+            Cabinet cab,
+            List<Employees> employees,
+            List<Equipment> equipment,
+            bool isFiltered)
+        {
+            var cabinetNode = new TreeViewItem
+            {
+                Tag = new NodeInfo { Type = NodeType.Cabinet, Id = cab.Id },
+                Header = CreateCabinetHeader(cab)
+            };
+    
+            // Создание узла "Сотрудники" только если есть данные или нет фильтра
+            if (!isFiltered || employees.Count > 0)
+            {
+                var employeesNode = new TreeViewItem
+                {
+                    Header = new TextBlock { Text = "Сотрудники", Foreground = Brushes.LightSkyBlue },
+                    Tag = new NodeInfo { Type = NodeType.Employees, ParentId = cab.Id }
+                };
+    
+                if (isFiltered)
+                {
+                    // При фильтрации сразу загружаем данные
+                    foreach (var emp in employees)
+                    {
+                        employeesNode.Items.Add(new TreeViewItem
+                        {
+                            Header = CreateEmployeeHeader(emp),
+                            Tag = new NodeInfo { Type = NodeType.Employee, Id = emp.Id, ParentId = cab.Id }
+                        });
+                    }
+                }
+                else
+                {
+                    employeesNode.Items.Add(new TreeViewItem()); // Фиктивный элемент для стрелки
+                    employeesNode.Expanded += OnEmployeesOrEquipmentExpanded;
+                }
+    
+                // Контекстное меню для добавления сотрудника
+                var addEmployeeMenuItem = new MenuItem { Header = "Добавить Сотрудника" };
+                addEmployeeMenuItem.Click += async (sender, e) =>
+                {
+                    await ShowAddEmployeeDialog(cab.Id);
+                    LoadCabinets(); // Обновляем весь список с фильтрацией
+                };
+                employeesNode.ContextMenu = new ContextMenu
+                {
+                    Items = { addEmployeeMenuItem }
+                };
+    
+                cabinetNode.Items.Add(employeesNode);
+            }
+    
+            // Создание узла "Оборудование" только если есть данные или нет фильтра
+            if (!isFiltered || equipment.Count > 0)
+            {
+                var equipmentNode = new TreeViewItem
+                {
+                    Header = new TextBlock { Text = "Оборудование", Foreground = Brushes.LightGreen },
+                    Tag = new NodeInfo { Type = NodeType.Equipment, ParentId = cab.Id }
+                };
+    
+                if (isFiltered)
+                {
+                    // При фильтрации сразу загружаем данные
+                    foreach (var eq in equipment)
+                    {
+                        equipmentNode.Items.Add(new TreeViewItem
+                        {
+                            Header = CreateEquipmentHeader(eq),
+                            Tag = new NodeInfo { Type = NodeType.EquipmentItem, Id = eq.Id, ParentId = cab.Id }
+                        });
+                    }
+                }
+                else
+                {
+                    equipmentNode.Items.Add(new TreeViewItem()); // Фиктивный элемент для стрелки
+                    equipmentNode.Expanded += OnEmployeesOrEquipmentExpanded;
+                }
+    
+                // Контекстное меню для добавления оборудования
+                var addEquipmentMenuItem = new MenuItem { Header = "Добавить Оборудование" };
+                addEquipmentMenuItem.Click += async (sender, e) =>
+                {
+                    await ShowAddEquipmentDialog(cab.Id);
+                    LoadCabinets(); // Обновляем весь список с фильтрацией
+                };
+                equipmentNode.ContextMenu = new ContextMenu
+                {
+                    Items = { addEquipmentMenuItem }
+                };
+    
+                cabinetNode.Items.Add(equipmentNode);
+            }
+    
+            return cabinetNode;
+        }
+    
+        private static bool ContainsIgnoreCase(string source, string value)
+        {
+            return source?.Contains(value, StringComparison.OrdinalIgnoreCase) ?? false;
+        }
+        private StackPanel CreateCabinetHeader(Cabinet cab)
+        {
+            return new StackPanel
+            {
+                Orientation = Orientation.Horizontal,
+                Children =
+            {
+                new TextBlock
+                {
+                    Text = $"Кабинет {cab.Number}",
+                    Foreground = (IBrush)Application.Current.FindResource("TextControlForeground"),
+                    FontWeight = FontWeight.Bold
+                },
+                new TextBlock
+                {
+                    Text = $" ({cab.Description})",
+                    Foreground = (IBrush)Application.Current.FindResource("TextSecondaryBrush")
+                }
+            }
+            };
+        }
+    
+        private void OnEmployeesOrEquipmentExpanded(object sender, RoutedEventArgs e)
+        {
+            if (sender is TreeViewItem node && node.Tag is NodeInfo info)
+            {
+                // Загружаем данные только при первом раскрытии
+                if (node.Items.Count == 1 && node.Items[0] is TreeViewItem temp && temp.Header == null)
+                {
+                    switch (info.Type)
+                    {
+                        case NodeType.Employees:
+                            LoadEmployees(node, info.ParentId);
+                            break;
+                        case NodeType.Equipment:
+                            LoadEquipment(node, info.ParentId);
+                            break;
+                    }
+                }
+            }
+        }
+        public class BoolToObjectConverter : IValueConverter
+        {
+            public static BoolToObjectConverter Instance { get; } = new();
+    
+            public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+            {
+                var parameters = parameter?.ToString()?.Split('|');
+                if (parameters?.Length == 2 && value is bool boolValue)
+                    return boolValue ? parameters[0] : parameters[1];
+    
+                return " ";
+            }
+    
+            public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+            {
+                throw new NotImplementedException();
+            }
+        }
+        private void LoadEmployees(TreeViewItem node, int cabinetId)
+        {
+            // Полностью очищаем узел перед загрузкой новых данных
+            node.Items.Clear();
+    
+            var employees = App.Database.GetEmployeesForCabinet(cabinetId);
+            foreach (var emp in employees)
+            {
+                node.Items.Add(new TreeViewItem
+                {
+                    Header = CreateEmployeeHeader(emp),
+                    Tag = new NodeInfo { Type = NodeType.Employee, Id = emp.Id, ParentId = cabinetId }
+                });
+            }
+    
+            // Если нет данных - добавляем заглушку
+            if (employees.Count == 0)
+            {
+                node.Items.Add(new TreeViewItem
+                {
+                    Header = new TextBlock { Text = "Нет сотрудников", Foreground = Brushes.Gray }
+                });
+            }
+        }
+    
+        private void LoadEquipment(TreeViewItem node, int cabinetId)
+        {
+            // Полностью очищаем узел перед загрузкой новых данных
+            node.Items.Clear();
+    
+            var equipment = App.Database.GetEquipmentForCabinet(cabinetId);
+            foreach (var eq in equipment)
+            {
+                node.Items.Add(new TreeViewItem
+                {
+                    Header = CreateEquipmentHeader(eq),
+                    Tag = new NodeInfo { Type = NodeType.EquipmentItem, Id = eq.Id, ParentId = cabinetId }
+                });
+            }
+    
+            if (equipment.Count == 0)
+            {
+                node.Items.Add(new TreeViewItem
+                {
+                    Header = new TextBlock { Text = "Нет оборудования", Foreground = Brushes.Gray }
+                });
+            }
+        }
+    
+        private StackPanel CreateEmployeeHeader(Employees emp)
+        {
+            return new StackPanel
+            {
+                Orientation = Orientation.Horizontal,
+                Children =
+            {
+                new TextBlock
+                {
+                    Text = $"{emp.FirstName} {emp.LastName}",
+                    Foreground = Brushes.DarkGray
+                },
+                new TextBlock
+                {
+                    Text = $" ({emp.Position})",
+                    Foreground = Brushes.Gray
+                }
+            }
+            };
+        }
+    
+        private StackPanel CreateEquipmentHeader(Equipment eq)
+        {
+            var stack = new StackPanel
+            {
+                Orientation = Orientation.Horizontal,
+                Children =
+            {
+                new TextBlock
+                {
+                    Text = $"{eq.Type}: {eq.Model}",
+                    Foreground = Brushes.DarkGray
+                }
+            }
+            };
+    
+            if (eq.Type == "Компьютер")
+            {
+                stack.Children.Add(new TextBlock
+                {
+                    Text = $" ({eq.OS})",
+                    Foreground = Brushes.Gray
+                });
+            }
+    
+            return stack;
+        }
+    
+        private async Task ShowAddEmployeeDialog(int cabinetId)
+        {
+            var users = App.Database.GetAllUsers();
+            var dialog = new Window
+            {
+                Title = "Добавить сотрудника",
+                SizeToContent = SizeToContent.WidthAndHeight,
+                WindowStartupLocation = WindowStartupLocation.CenterOwner
+            };
+    
+            var panel = new StackPanel { Spacing = 10 };
+            //var cmbUser = new ComboBox { ItemsSource = users, DisplayMemberBinding = new Binding("Username") };
+            var tbFirstName = new TextBox { Watermark = "Имя" };
+            var tbLastName = new TextBox { Watermark = "Фамилия" };
+            var tbPosition = new TextBox { Watermark = "Должность" };
+            var buttons = new StackPanel { Orientation = Orientation.Horizontal, Spacing = 10 };
+            var saveButton = new Button { Content = "Сохранить" };
+            var cancelButton = new Button { Content = "Отмена" };
+    
+            buttons.Children.Add(saveButton);
+            buttons.Children.Add(cancelButton);
+            //panel.Children.Add(cmbUser);
+            panel.Children.Add(tbFirstName);
+            panel.Children.Add(tbLastName);
+            panel.Children.Add(tbPosition);
+            panel.Children.Add(buttons);
+            dialog.Content = panel;
+    
+            var result = await ShowDialog(dialog, saveButton, cancelButton);
+            if (result == "Сохранить")
+            {
+                // Валидация данных
+                if (string.IsNullOrWhiteSpace(tbFirstName.Text))
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Имя не может быть пустым")
+                        .ShowWindowDialogAsync((Window)VisualRoot);
+                    return;
+                }
+    
+    
+    
+                if (string.IsNullOrWhiteSpace(tbLastName.Text))
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Фамилия не может быть пустой")
+                        .ShowWindowDialogAsync((Window)VisualRoot);
+                    return;
+                }
+    
+                if (string.IsNullOrWhiteSpace(tbPosition.Text))
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Должность не может быть пустой")
+                        .ShowWindowDialogAsync((Window)VisualRoot);
+                    return;
+                }
+    
+                App.Database.AddEmployee(new Employees
+                {
+                    //Username = (cmbUser.SelectedItem as Models.User)?.Username ?? "",
+                    FirstName = tbFirstName.Text,
+                    LastName = tbLastName.Text,
+                    Position = tbPosition.Text,
+                    CabinetId = cabinetId
+                });
+                LoadCabinets();
+            }
+        }
+    
+        private async Task ShowAddEquipmentDialog(int cabinetId)
+        {
+            var dialog = new Window
+            {
+                Title = "Добавить оборудование",
+                SizeToContent = SizeToContent.WidthAndHeight,
+                WindowStartupLocation = WindowStartupLocation.CenterOwner
+            };
+    
+            var panel = new StackPanel { Spacing = 10 };
+            var cmbType = new ComboBox
+            {
+                ItemsSource = new List<string> { "Монитор", "Компьютер", "Принтер", "Другое" },
+                SelectedIndex = 0
+            };
+            var tbModel = new TextBox { Watermark = "Модель" };
+            var tbOS = new TextBox { Watermark = "ОС", IsVisible = false };
+            var buttons = new StackPanel { Orientation = Orientation.Horizontal, Spacing = 10 };
+            var saveButton = new Button { Content = "Сохранить" };
+            var cancelButton = new Button { Content = "Отмена" };
+    
+            cmbType.SelectionChanged += (s, e) =>
+                tbOS.IsVisible = cmbType.SelectedItem?.ToString() == "Компьютер";
+    
+            buttons.Children.Add(saveButton);
+            buttons.Children.Add(cancelButton);
+            panel.Children.Add(cmbType);
+            panel.Children.Add(tbModel);
+            panel.Children.Add(tbOS);
+            panel.Children.Add(buttons);
+            dialog.Content = panel;
+    
+            var result = await ShowDialog(dialog, saveButton, cancelButton);
+            if (result == "Сохранить")
+            {
+                // Валидация данных
+                if (string.IsNullOrWhiteSpace(tbModel.Text))
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Модель не может быть пустой")
+                        .ShowWindowDialogAsync((Window)VisualRoot);
+                    return;
+                }
+    
+                if (cmbType.SelectedItem?.ToString() == "Компьютер" && string.IsNullOrWhiteSpace(tbOS.Text))
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Для компьютера необходимо указать ОС")
+                        .ShowWindowDialogAsync((Window)VisualRoot);
+                    return;
+                }
+    
+                App.Database.AddEquipment(new Equipment
+                {
+                    Type = cmbType.SelectedItem?.ToString() ?? "",
+                    Model = tbModel.Text,
+                    OS = tbOS.Text,
+                    CabinetId = cabinetId
+                });
+                LoadCabinets();
+            }
+        }
+    
+        private async Task<string> ShowDialog(Window dialog, Button saveButton, Button cancelButton)
+        {
+            var tcs = new TaskCompletionSource<string>();
+    
+            saveButton.Click += (s, e) =>
+            {
+                tcs.TrySetResult("Сохранить");
+                dialog.Close();
+            };
+    
+            cancelButton.Click += (s, e) =>
+            {
+                tcs.TrySetResult("Отмена");
+                dialog.Close();
+            };
+    
+            dialog.ShowDialog((Window)VisualRoot);
+            return await tcs.Task;
+        }
+    
+    
+        private async void OnAddCabinetClick(object sender, RoutedEventArgs e)
+        {
+            var dialog = new Window
+            {
+                Title = "Добавить кабинет",
+                SizeToContent = SizeToContent.WidthAndHeight,
+                WindowStartupLocation = WindowStartupLocation.CenterOwner
+            };
+    
+            var panel = new StackPanel { Spacing = 10 };
+            var tbNumber = new TextBox { Watermark = "Номер кабинета" };
+            var tbDescription = new TextBox { Watermark = "Описание кабинета" };
+            var buttonsPanel = new StackPanel { Orientation = Orientation.Horizontal, Spacing = 10 };
+            var saveButton = new Button { Content = "Сохранить" };
+            var cancelButton = new Button { Content = "Отмена" };
+    
+            buttonsPanel.Children.Add(saveButton);
+            buttonsPanel.Children.Add(cancelButton);
+            panel.Children.Add(tbNumber);
+            panel.Children.Add(tbDescription);
+            panel.Children.Add(buttonsPanel);
+            dialog.Content = panel;
+    
+            var tcs = new TaskCompletionSource<string>();
+    
+            saveButton.Click += async (s, e) =>
+            {
+                // Валидация номера кабинета
+                if (string.IsNullOrWhiteSpace(tbNumber.Text))
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Номер кабинета не может быть пустым")
+                        .ShowAsync();
+                    return;
+                }
+    
+                if (!int.TryParse(tbNumber.Text, out _))
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Номер кабинета должен быть числом")
+                        .ShowAsync();
+                    return;
+                }
+    
+                // Валидация описания
+                if (string.IsNullOrWhiteSpace(tbDescription.Text))
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Описание кабинета не может быть пустым")
+                        .ShowAsync();
+                    return;
+                }
+    
+                tcs.TrySetResult("Сохранить");
+                dialog.Close();
+            };
+    
+            cancelButton.Click += (s, e) =>
+            {
+                tcs.TrySetResult("Отмена");
+                dialog.Close();
+            };
+    
+            dialog.ShowDialog((Window)this.VisualRoot);
+            var result = await tcs.Task;
+    
+            if (result == "Сохранить")
+            {
+                App.Database.AddCabinet(new Cabinet
+                {
+                    Number = tbNumber.Text,
+                    Description = tbDescription.Text
+                });
+                LoadCabinets();
+            }
+        }
+    
+        private async void OnEditCabinetClick(object sender, RoutedEventArgs e)
+        {
+            var selected = treeViewCabinets.SelectedItem as TreeViewItem;
+            if (selected?.Tag is not NodeInfo info || info.Type != NodeType.Cabinet) return;
+    
+            var cabinet = App.Database.GetCabinetById(info.Id);
+    
+            var dialog = new Window
+            {
+                Title = "Редактировать кабинет",
+                SizeToContent = SizeToContent.WidthAndHeight,
+                WindowStartupLocation = WindowStartupLocation.CenterOwner
+            };
+    
+            var panel = new StackPanel { Spacing = 10 };
+            var tbNumber = new TextBox { Text = cabinet.Number };
+            var tbDescription = new TextBox { Text = cabinet.Description };
+            var buttonsPanel = new StackPanel { Orientation = Orientation.Horizontal, Spacing = 10 };
+            var saveButton = new Button { Content = "Сохранить" };
+            var cancelButton = new Button { Content = "Отмена" };
+    
+            buttonsPanel.Children.Add(saveButton);
+            buttonsPanel.Children.Add(cancelButton);
+            panel.Children.Add(tbNumber);
+            panel.Children.Add(tbDescription);
+            panel.Children.Add(buttonsPanel);
+            dialog.Content = panel;
+    
+            var tcs = new TaskCompletionSource<string>();
+    
+            saveButton.Click += async (s, e) =>
+            {
+                if (string.IsNullOrWhiteSpace(tbNumber.Text))
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Номер кабинета не может быть пустым")
+                        .ShowAsync();
+                    return;
+                }
+    
+                if (!int.TryParse(tbNumber.Text, out _))
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Номер кабинета должен быть числом")
+                        .ShowAsync();
+                    return;
+                }
+    
+                if (string.IsNullOrWhiteSpace(tbDescription.Text))
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Описание кабинета не может быть пустым")
+                        .ShowAsync();
+                    return;
+                }
+    
+                tcs.TrySetResult("Сохранить");
+                dialog.Close();
+            };
+    
+            cancelButton.Click += (s, e) =>
+            {
+                tcs.TrySetResult("Отмена");
+                dialog.Close();
+            };
+    
+            dialog.ShowDialog((Window)this.VisualRoot);
+            var result = await tcs.Task;
+    
+            if (result == "Сохранить")
+            {
+                cabinet.Number = tbNumber.Text;
+                cabinet.Description = tbDescription.Text;
+                App.Database.UpdateCabinet(cabinet);
+                LoadCabinets();
+            }
+        }
+    
+        private async void OnTreeViewDoubleTapped(object sender, RoutedEventArgs e)
+        {
+            if (treeViewCabinets.SelectedItem is not TreeViewItem selectedItem ||
+            selectedItem.Tag is not NodeInfo info) return;
+    
+            // Игнорируем двойной клик на узлах "Сотрудники" и "Оборудование"
+            if (info.Type == NodeType.Employees || info.Type == NodeType.Equipment)
+                return;
+    
+            switch (info.Type)
+            {
+                case NodeType.Employees:
+                    var users = App.Database.GetUsersForCabinet(info.ParentId);
+    
+                    var empDialog = new Window
+                    {
+                        Title = "Сотрудники",
+                        SizeToContent = SizeToContent.WidthAndHeight,
+                        WindowStartupLocation = WindowStartupLocation.CenterOwner
+                    };
+    
+                    var empPanel = new StackPanel { Spacing = 10 };
+                    var cmbUsername = new ComboBox { ItemsSource = users, SelectedIndex = 0 };
+                    var tbFirstName = new TextBox { Watermark = "Имя" };
+                    var tbLastName = new TextBox { Watermark = "Фамилия" };
+                    var tbPosition = new TextBox { Watermark = "Должность" };
+                    var empButtons = new StackPanel { Orientation = Orientation.Horizontal, Spacing = 10 };
+                    var empSave = new Button { Content = "Сохранить" };
+                    var empCancel = new Button { Content = "Отмена" };
+    
+                    empButtons.Children.Add(empSave);
+                    empButtons.Children.Add(empCancel);
+                    empPanel.Children.Add(cmbUsername);
+                    empPanel.Children.Add(tbFirstName);
+                    empPanel.Children.Add(tbLastName);
+                    empPanel.Children.Add(tbPosition);
+                    empPanel.Children.Add(empButtons);
+                    empDialog.Content = empPanel;
+    
+                    var tcs1 = new TaskCompletionSource<string>();
+    
+                    empSave.Click += async (s, e) =>
+                    {
+                        if (string.IsNullOrWhiteSpace(tbFirstName.Text))
+                        {
+                            await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Имя не может быть пустым")
+                                .ShowAsync();
+                            return;
+                        }
+    
+                        if (string.IsNullOrWhiteSpace(tbLastName.Text))
+                        {
+                            await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Фамилия не может быть пустой")
+                                .ShowAsync();
+                            return;
+                        }
+    
+                        if (string.IsNullOrWhiteSpace(tbPosition.Text))
+                        {
+                            await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Должность не может быть пустой")
+                                .ShowAsync();
+                            return;
+                        }
+    
+                        tcs1.TrySetResult("Сохранить");
+                        empDialog.Close();
+                    };
+    
+                    empCancel.Click += (s, e) =>
+                    {
+                        tcs1.TrySetResult("Отмена");
+                        empDialog.Close();
+                    };
+    
+                    empDialog.ShowDialog((Window)this.VisualRoot);
+                    var empResult = await tcs1.Task;
+    
+                    if (empResult == "Сохранить")
+                    {
+                        App.Database.AddEmployee(new Employees
+                        {
+                            Username = cmbUsername.SelectedItem?.ToString() ?? "",
+                            FirstName = tbFirstName.Text,
+                            LastName = tbLastName.Text,
+                            Position = tbPosition.Text,
+                            CabinetId = info.ParentId
+                        });
+                        LoadCabinets();
+                    }
+                    await ShowAddEmployeeDialog(info.ParentId);
+                    break;
+    
+                case NodeType.Equipment:
+                    var eqDialog = new Window
+                    {
+                        Title = "Оборудование",
+                        SizeToContent = SizeToContent.WidthAndHeight,
+                        WindowStartupLocation = WindowStartupLocation.CenterOwner
+                    };
+    
+                    var eqPanel = new StackPanel { Spacing = 10 };
+                    var cmbType = new ComboBox
+                    {
+                        ItemsSource = new List<string> { "Компьютер", "Монитор", "Принтер", "Другое" },
+                        SelectedIndex = 0
+                    };
+                    var tbModel = new TextBox { Watermark = "Модель" };
+                    var tbOS = new TextBox { Watermark = "ОС", IsVisible = false };
+                    var eqButtons = new StackPanel { Orientation = Orientation.Horizontal, Spacing = 10 };
+                    var eqSave = new Button { Content = "Сохранить" };
+                    var eqCancel = new Button { Content = "Отмена" };
+    
+                    cmbType.SelectionChanged += (s, args) =>
+                        tbOS.IsVisible = cmbType.SelectedItem?.ToString() == "Компьютер";
+    
+                    eqButtons.Children.Add(eqSave);
+                    eqButtons.Children.Add(eqCancel);
+                    eqPanel.Children.Add(cmbType);
+                    eqPanel.Children.Add(tbModel);
+                    eqPanel.Children.Add(tbOS);
+                    eqPanel.Children.Add(eqButtons);
+                    eqDialog.Content = eqPanel;
+    
+                    var tcs = new TaskCompletionSource<string>();
+    
+                    eqSave.Click += async (s, e) =>
+                    {
+                        // Валидация данных оборудования
+                        if (string.IsNullOrWhiteSpace(tbModel.Text))
+                        {
+                            await MessageBoxManager.GetMessageBoxStandard("Ошибка", "Модель не может быть пустой")
+                                .ShowAsync();
+                            return;
+                        }
+    
+                        if (cmbType.SelectedItem?.ToString() == "Компьютер" &&
+                            string.IsNullOrWhiteSpace(tbOS.Text))
+                        {
+                            await MessageBoxManager.GetMessageBoxStandard("Ошибка",
+                                "Для компьютера необходимо указать ОС")
+                                .ShowAsync();
+                            return;
+                        }
+    
+                        tcs.TrySetResult("Сохранить");
+                        eqDialog.Close();
+                    };
+    
+                    eqCancel.Click += (s, e) =>
+                    {
+                        tcs.TrySetResult("Отмена");
+                        eqDialog.Close();
+                    };
+    
+                    eqDialog.ShowDialog((Window)this.VisualRoot);
+                    var eqResult = await tcs.Task;
+    
+                    if (eqResult == "Сохранить")
+                    {
+                        App.Database.AddEquipment(new Equipment
+                        {
+                            Type = cmbType.SelectedItem?.ToString() ?? "",
+                            Model = tbModel.Text,
+                            OS = tbOS.Text,
+                            CabinetId = info.ParentId
+                        });
+                        LoadCabinets();
+                    }
+                    await ShowAddEquipmentDialog(info.ParentId);
+                    break;
+            }
+        }
+    
+        private async void OnExportToExcelClick(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                var cabinets = App.Database.GetAllCabinets();
+                if (cabinets.Count == 0)
+                {
+                    await MessageBoxManager.GetMessageBoxStandard("Информация", "Нет данных для экспорта")
+                        .ShowWindowDialogAsync((Window)VisualRoot);
+                    return;
+                }
+    
+                using (var workbook = new XLWorkbook())
+                {
+                    var worksheet = workbook.Worksheets.Add("Кабинеты");
+                    int row = 1;
+    
+                    // Заголовки
+                    worksheet.Cell(row, 1).Value = "Номер кабинета";
+                    worksheet.Cell(row, 2).Value = "Описание кабинета";
+                    worksheet.Cell(row, 3).Value = "Тип";
+                    worksheet.Cell(row, 4).Value = "Имя/Тип оборудования";
+                    worksheet.Cell(row, 5).Value = "Должность/Модель";
+                    worksheet.Cell(row, 6).Value = "ОС";
+    
+                    // Стилизация заголовков
+                    var headerRange = worksheet.Range(row, 1, row, 6);
+                    headerRange.Style.Font.Bold = true;
+                    headerRange.Style.Fill.BackgroundColor = XLColor.LightBlue;
+                    headerRange.Style.Alignment.Horizontal = XLAlignmentHorizontalValues.Center;
+                    headerRange.Style.Border.BottomBorder = XLBorderStyleValues.Medium;
+    
+                    // Фиксированные заголовки
+                    worksheet.SheetView.FreezeRows(1);
+    
+                    // Автофильтры
+                    worksheet.Range(row, 1, row, 6).SetAutoFilter();
+    
+                    row++;
+    
+    
+                    foreach (var cab in cabinets)
+                    {
+                        // Строка для кабинета
+                        worksheet.Cell(row, 1).Value = cab.Number;
+                        worksheet.Cell(row, 2).Value = cab.Description;
+                        worksheet.Cell(row, 3).Value = "Кабинет";
+                        row++;
+    
+                        // Сотрудники
+                        var employees = App.Database.GetEmployeesForCabinet(cab.Id);
+                        foreach (var emp in employees)
+                        {
+                            worksheet.Cell(row, 1).Value = cab.Number;
+                            worksheet.Cell(row, 2).Value = cab.Description;
+                            worksheet.Cell(row, 3).Value = "Сотрудник";
+                            worksheet.Cell(row, 4).Value = $"{emp.FirstName} {emp.LastName}";
+                            worksheet.Cell(row, 5).Value = emp.Position;
+                            row++;
+                        }
+    
+                        // Оборудование
+                        var equipment = App.Database.GetEquipmentForCabinet(cab.Id);
+                        foreach (var eq in equipment)
+                        {
+                            worksheet.Cell(row, 1).Value = cab.Number;
+                            worksheet.Cell(row, 2).Value = cab.Description;
+                            worksheet.Cell(row, 3).Value = "Оборудование";
+                            worksheet.Cell(row, 4).Value = eq.Type;
+                            worksheet.Cell(row, 5).Value = eq.Model;
+                            worksheet.Cell(row, 6).Value = eq.OS ?? string.Empty;
+                            row++;
+                        }
+    
+                        // Пустая строка для разделения
+                        row++;
+                    }
+    
+                    // Динамическая ширина колонок
+                    worksheet.Columns().AdjustToContents();
+    
+                    // Диалог сохранения
+                    var saveFileDialog = new SaveFileDialog();
+                    saveFileDialog.Title = "Сохранить Excel файл";
+                    saveFileDialog.Filters.Add(new FileDialogFilter { Name = "Excel Files", Extensions = { "xlsx" } });
+    
+                    var filePath = await saveFileDialog.ShowAsync((Window)VisualRoot);
+    
+                    if (!string.IsNullOrEmpty(filePath))
+                    {
+                        workbook.SaveAs(filePath);
+                        await MessageBoxManager.GetMessageBoxStandard("Успех", "Данные экспортированы в Excel!")
+                            .ShowWindowDialogAsync((Window)VisualRoot);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                await MessageBoxManager.GetMessageBoxStandard("Ошибка", $"Ошибка экспорта: {ex.Message}")
+                    .ShowWindowDialogAsync((Window)VisualRoot);
+            }
+        }
+    
+        public class NodeInfo
+        {
+            public NodeType Type { get; set; }
+            public int Id { get; set; }
+            public int ParentId { get; set; }
+        }
+    
+        public enum NodeType
+        {
+            Cabinet,
+            Employees,
+            Equipment,
+            Employee,
+            EquipmentItem
+        }
+    }
+
+  FAQWindow.axaml [Файл]
+  FAQWindow.axaml.cs [Файл]
+    using Avalonia.Controls;
+    
+    namespace RequestBotLinux;
+    
+    public partial class FAQWindow : UserControl
+    {
+        public FAQWindow()
+        {
+            InitializeComponent();
+        }
+    }
+
+  MainFormInstance.axaml [Файл]
+  MainFormInstance.axaml.cs [Файл]
+    using System;
+    using System.Collections.Generic;
+    using System.Diagnostics;
+    using System.Linq;
+    using Avalonia.Controls;
+    using Avalonia.Input;
+    using Avalonia.Interactivity;
+    using Avalonia.Threading;
+    using MsBox.Avalonia;
+    using MsBox.Avalonia.Enums; // Для TimePeriodDialog
+    using RequestBotLinux.Views;
+    using Telegram.Bot;
+    
+    
+    namespace RequestBotLinux;
+    
+    public partial class MainFormInstance : UserControl
+    {
+        public string CurrentUser => listViewUsers.SelectedItem as string;
+        private readonly ViewModels.MainFormViewModel _viewModel = new();
+    
+        public MainFormInstance()
+        {
+            InitializeComponent();
+            DataContext = _viewModel;
+            listViewUsers.SelectionChanged += OnUserSelected;
+        }
+    
+    
+        public void UpdateMessages(string messages)
+        {
+            _viewModel.MessagesText = messages;
+            Dispatcher.UIThread.Post(() => scrollViewer.ScrollToEnd());
+        }
+    
+        private void OnUserSelected(object sender, SelectionChangedEventArgs e)
+        {
+            if (listViewUsers.SelectedItem is string selectedUser)
+            {
+                // Загружаем сообщения синхронно
+                var messages = App.Database.GetMessagesByUsername(selectedUser)
+                    .OrderBy(t => t.Timestamp)
+                    .Select(t => FormatMessage(t));
+    
+                _viewModel.MessagesText = string.Join(Environment.NewLine, messages);
+                scrollViewer.ScrollToEnd();
+            }
+        }
+        private static string FormatMessage(Models.MessageData msg) =>
+            $"[{msg.Timestamp:yyyy-MM-dd HH:mm}] {(msg.IsFromAdmin ? "[Вы] " : "")}{msg.MessageText}";
+    
+    
+        public void UpdateUsers(IEnumerable<string> users)
+        {
+            var newUsers = new HashSet<string>(users);
+    
+            // Удаляем отсутствующих пользователей
+            foreach (var existingUser in _viewModel.Users.ToList())
+            {
+                if (!newUsers.Contains(existingUser))
+                    _viewModel.Users.Remove(existingUser);
+            }
+    
+            // Добавляем новых пользователей
+            foreach (var user in users)
+            {
+                if (!_viewModel.Users.Contains(user))
+                    _viewModel.Users.Add(user);
+            }
+        }
+        public void AppendMessage(string message)
+        {
+            textBoxMessages.Text += $"\n{message}";
+        }
+        private async void OnSendMessageClick(object sender, RoutedEventArgs e)
+        {
+            var message = tbSendMessage.Text?.Trim();
+            if (string.IsNullOrEmpty(message))
+            {
+                return;
+            }
+    
+            var selectedUser = listViewUsers.SelectedItem as string;
+            if (string.IsNullOrEmpty(selectedUser))
+            {
+                AppendMessage("[Ошибка] Выберите пользователя!");
+                return;
+            }
+            RefreshMessages();
+    
+            try
+            {
+                var chatId = App.Database.GetChatIdByUsername(selectedUser);
+                if (chatId == 0)
+                {
+                    AppendMessage("[Ошибка] Не удалось найти chatId");
+                    return;
+                }
+    
+                // Сохранение в базу данных перед отправкой (опционально)
+                await App.Database.AddOutgoingMessageAsync(
+                    username: selectedUser,
+                    chatId: chatId,
+                    messageText: message);
+    
+                // Отправка через Telegram API
+                await App.BotClient.SendTextMessageAsync(
+                    chatId: chatId,
+                    text: message);
+    
+                tbSendMessage.Text = string.Empty;
+    
+                // Обновляем интерфейс
+                var messages = App.Database.GetMessagesByUsername(selectedUser)
+                    .OrderBy(t => t.Timestamp)
+                    .Select(t => t.IsFromAdmin
+                        ? $"[{t.Timestamp:yyyy-MM-dd HH:mm}] [Вы] {t.MessageText}"
+                        : $"[{t.Timestamp:yyyy-MM-dd HH:mm}] {t.MessageText}");
+    
+                UpdateMessages(string.Join(Environment.NewLine, messages));
+            }
+            catch (Exception ex)
+            {
+                AppendMessage($"[Ошибка] {ex.Message}");
+                // Если сообщение было сохранено, но не отправлено, можно обновить статус
+            }
+        }
+    
+        private async void OnDeleteButtonClick(object sender, RoutedEventArgs e)
+        {
+            if (listViewUsers.SelectedItem is not string selectedUser)
+            {
+                var box = MessageBoxManager.GetMessageBoxStandard(
+                    title: "Ошибка",
+                    text: "Выберите пользователя!",
+                    ButtonEnum.Ok,
+                    icon: Icon.Warning
+                );
+                await box.ShowWindowDialogAsync((Window)this.VisualRoot);
+                return;
+            }
+    
+            var dialog = new TimePeriodDialog();
+            var mainWindow = (Window)this.VisualRoot;
+            var result = await dialog.ShowDialog<TimeSpan?>(mainWindow);
+    
+            if (result.HasValue)
+            {
+                // Добавляем проверку на минимальный период
+                if (result.Value.TotalSeconds <= 0)
+                {
+                    var errorBox = MessageBoxManager.GetMessageBoxStandard(
+                    "Ошибка",
+                    "Некорректный период для удаления",
+                    ButtonEnum.Ok,
+                    Icon.Error
+                );
+                    await errorBox.ShowWindowDialogAsync(mainWindow);
+                    return;
+                }
+    
+                try
+                {
+                    var deletedCount = App.Database.DeleteMessagesByPeriod(selectedUser, result.Value);
+    
+                    // Логируем результат
+                    Debug.WriteLine($"Deleted {deletedCount} messages older than {result.Value}");
+    
+                    // Обновляем интерфейс
+                    var messages = App.Database.GetMessagesByUsername(selectedUser)
+                        .OrderBy(t => t.Timestamp)
+                        .Select(t => $"[{t.Timestamp:yyyy-MM-dd HH:mm}] {(t.IsFromAdmin ? "[Вы] " : "")}{t.MessageText}");
+                    // Уведомление об успешном удалении
+                    var successBox = MessageBoxManager.GetMessageBoxStandard(
+                        "Успех",
+                        $"Удалено сообщений: {deletedCount}",
+                        ButtonEnum.Ok,
+                        Icon.Info
+                    );
+                    await successBox.ShowWindowDialogAsync(mainWindow);
+                    UpdateMessages(string.Join(Environment.NewLine, messages));
+    
+                }
+                catch (Exception ex)
+                {
+                    // Логируем ошибку
+                    Debug.WriteLine($"Deletion failed: {ex}");
+                    var errorBox = MessageBoxManager.GetMessageBoxStandard(
+                        "Ошибка",
+                        $"Ошибка удаления: {ex.Message}",
+                        ButtonEnum.Ok,
+                        Icon.Error
+                    );
+                    await errorBox.ShowWindowDialogAsync(mainWindow);
+                }
+            }
+        }
+    
+        private void OnSendMessageKeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Enter)
+            {
+                if (e.KeyModifiers == KeyModifiers.Shift)
+                {
+                    if (sender is TextBox textBox)
+                    {
+                        // Создаем новую строку только если TextBox доступен
+                        var text = textBox.Text ?? "";
+                        var caretIndex = textBox.CaretIndex;
+    
+                        // Вставляем новую строку
+                        textBox.Text = text.Insert(
+                            Math.Clamp(caretIndex, 0, text.Length),
+                            Environment.NewLine
+                        );
+    
+                        // Обновляем позицию каретки
+                        textBox.CaretIndex = caretIndex + Environment.NewLine.Length;
+                        e.Handled = true;
+                    }
+                }
+                else if (e.KeyModifiers == KeyModifiers.None)
+                {
+                    OnSendMessageClick(sender, null);
+                    e.Handled = true;
+                }
+            }
+        }
+        public void RefreshMessages()
+        {
+            if (!Dispatcher.UIThread.CheckAccess())
+            {
+                Dispatcher.UIThread.Post(RefreshMessages);
+                return;
+            }
+    
+            var selectedUser = listViewUsers.SelectedItem as string;
+            if (string.IsNullOrEmpty(selectedUser)) return;
+    
+            var messages = App.Database.GetMessagesByUsername(selectedUser)
+                .OrderBy(t => t.Timestamp)
+                .Select(FormatMessage);
+    
+            _viewModel.MessagesText = string.Join(Environment.NewLine, messages);
+            scrollViewer.ScrollToEnd();
+        }
+    }
+
+  MainWindow.axaml [Файл]
+  MainWindow.axaml.cs [Файл]
+    using System;
+    using System.Linq;
+    using Avalonia.Controls;
+    using Avalonia.Interactivity;
+    using Avalonia.Threading;
+    
+    namespace RequestBotLinux.Views
+    {
+        public partial class MainWindow : Window
+        {
+            public MainFormInstance MainForm { get; set; }
+            public MainWindow()
+            {
+                InitializeComponent();
+                MainForm = mainForm;
+                App.BotStatusChanged += OnBotStatusChanged;
+                App.Database.MessageAdded += DatabaseUpdated;
+            }
+    
+            private void DatabaseUpdated()
+            {
+                Dispatcher.UIThread.InvokeAsync(() =>
+                {
+                    LoadUsers();
+                    LoadMessages();
+    
+                    if (MainContent.Content is MainFormInstance mainForm)
+                    {
+                        mainForm.RefreshMessages();
+                    }
+                });
+            }
+    
+            public void RefreshMessagesFromDb()
+            {
+                Dispatcher.UIThread.InvokeAsync(() =>
+                {
+                    var messages = App.Database.GetAllTasks()
+                        .Select(t => $"[{t.Username}] {t.Timestamp}: {t.MessageText}");
+                    if (MainContent.Content is MainFormInstance mainForm)
+                    {
+                        mainForm.UpdateMessages(string.Join(Environment.NewLine, messages));
+                    }
+                });
+            }
+    
+    
+            private void OnBotStatusChanged(string message)
+            {
+                Dispatcher.UIThread.Post(() =>
+                {
+                    if (MainContent.Content is MainFormInstance mainForm)
+                    {
+                        mainForm.AppendMessage(message);
+                    }
+                });
+            }
+    
+            private async void OnHomeButtonClicked(object sender, RoutedEventArgs e)
+            {
+                var mainForm = new MainFormInstance();
+                MainContent.Content = mainForm;
+    
+                // Выполняем проверку подключения
+                var isConnected = await App.CheckBotConnectionAsync();
+                var statusMessage = isConnected
+                    ? "[Система] Бот успешно подключен!"
+                    : "[Ошибка] Не удалось подключиться к боту";
+    
+                mainForm.UpdateMessages(statusMessage);
+    
+                // Загружаем остальные данные
+                LoadMessages();
+                LoadUsers();
+    
+            }
+    
+            public void LoadMessages()
+            {
+                if (MainContent.Content is MainFormInstance mainForm)
+                {
+                    var selectedUser = mainForm.CurrentUser;
+                    if (!string.IsNullOrEmpty(selectedUser))
+                    {
+                        var messages = App.Database.GetMessagesByUsername(selectedUser)
+                            .OrderBy(t => t.Timestamp)
+                            .Select(t => FormatMessage(t));
+    
+                        mainForm.UpdateMessages(string.Join(Environment.NewLine, messages));
+                    }
+                }
+            }
+            private static string FormatMessage(Models.MessageData msg)
+            {
+                return $"[{msg.Timestamp:HH:mm}] {(msg.IsFromAdmin ? "[Вы] " : "")}{msg.MessageText}";
+            }
+    
+            public void LoadUsers()
+            {
+                var users = App.Database.GetUniqueUsers();
+    
+                if (MainContent.Content is MainFormInstance mainForm)
+                {
+                    mainForm.UpdateUsers(users);
+                }
+            }
+            private void OnMessagesButtonClicked(object sender, RoutedEventArgs e)
+            {
+                var messagesWindow = new MessagesWindow();
+                MainContent.Content = messagesWindow;
+            }
+            private void OnTasksButtonClicked(object sender, RoutedEventArgs e)
+            {
+                var tasksWindow = new TasksWindow();
+                MainContent.Content = tasksWindow;
+            }
+            private void OnCabinetsButtonClicked(object sender, RoutedEventArgs e)
+            {
+                var cabinetsWindow = new CabinetsWindow();
+                MainContent.Content = cabinetsWindow;
+            }
+            private void OnAnalyticsButtonClicked(object sender, RoutedEventArgs e)
+            {
+                var analyticsWindow = new AnalyticsView(App.Database);
+                MainContent.Content = analyticsWindow;
+            }
+            private void OnFAQButtonClicked(object sender, RoutedEventArgs e)
+            {
+                var faqWindow = new FAQWindow();
+                MainContent.Content = faqWindow;
+            }
+            private void OnQRButtonClicked(object sender, RoutedEventArgs e)
+            {
+                var qrWindow = new QrcodesWindow();
+                MainContent.Content = qrWindow;
+            }
+            private async void OnSettingsButtonClicked(object sender, RoutedEventArgs e)
+            {
+                var dialog = new SettingsDialog();
+                dialog.Initialize(App.Database);
+                await dialog.ShowDialog(this); // Исправлено
+            }
+    
+        }
+    }
+
+  MessagesWindow.axaml [Файл]
+  MessagesWindow.axaml.cs [Файл]
+    using System.Linq;
+    using Avalonia;
+    using Avalonia.Controls;
+    
+    namespace RequestBotLinux;
+    
+    public partial class MessagesWindow : UserControl
+    {
+        public MessagesWindow()
+        {
+            InitializeComponent();
+            LoadMessages();
+        }
+        private void LoadMessages()
+        {
+            var messages = App.Database.GetAllMessages()
+                .OrderByDescending(m => m.Timestamp);
+    
+            MessagesContainer.Children.Clear();
+    
+            foreach (var msg in messages)
+            {
+                var messageBlock = new StackPanel
+                {
+                    Spacing = 5,
+                    Margin = new Thickness(0, 0, 0, 10)
+                };
+    
+                var header = new TextBlock
+                {
+                    Text = $"[{msg.Timestamp:dd.MM.yyyy HH:mm}] {(msg.IsFromAdmin ? "[ADMIN]" : "")} {msg.Username}",
+                    Foreground = Avalonia.Media.Brushes.Gray
+                };
+    
+                var content = new TextBlock
+                {
+                    Text = msg.MessageText,
+                    TextWrapping = Avalonia.Media.TextWrapping.Wrap
+                };
+    
+                messageBlock.Children.Add(header);
+                messageBlock.Children.Add(content);
+    
+                MessagesContainer.Children.Add(messageBlock);
+            }
+        }
+    
+    }
+
+  QrcodesWindow.axaml [Файл]
+  QrcodesWindow.axaml.cs [Файл]
+    using Avalonia.Controls;
+    
+    namespace RequestBotLinux;
+    
+    public partial class QrcodesWindow : UserControl
+    {
+        public QrcodesWindow()
+        {
+            InitializeComponent();
+        }
+    }
+
+  SettingsDialog.axaml [Файл]
+  SettingsDialog.axaml.cs [Файл]
+    using System;
+    using Avalonia;
+    using Avalonia.Controls;
+    using Avalonia.Interactivity;
+    using Avalonia.Styling;
+    using MsBox.Avalonia.Enums;
+    
+    namespace RequestBotLinux;
+    
+    public partial class SettingsDialog : Window
+    {
+        private SettingsData _currentSettings;
+        private DataBase _database;
+    
+    
+        public SettingsDialog()
+        {
+            InitializeComponent();
+        }
+    
+        public void Initialize(DataBase database)
+        {
+            _database = database;
+            _currentSettings = SettingsManager.LoadSettings();
+    
+            // Убираем подписку/подписку на событие
+            ThemeSlider.IsCheckedChanged -= OnThemeChanged;
+    
+            // Устанавливаем состояние ToggleSwitch
+            ThemeSlider.IsChecked = _currentSettings.Theme == ThemeVariant.Dark;
+    
+            // Возвращаем подписку
+            ThemeSlider.IsCheckedChanged += OnThemeChanged;
+    
+            BotTokenInput.Text = _currentSettings.BotToken;
+        }
+    
+    
+    
+        private void OnThemeChanged(object sender, RoutedEventArgs e)
+        {
+            if (Application.Current == null) return;
+    
+            // Получаем текущее состояние ToggleSwitch
+            bool isDarkTheme = ThemeSlider.IsChecked ?? false;
+            var newTheme = isDarkTheme ? ThemeVariant.Dark : ThemeVariant.Light;
+            _currentSettings.Theme = newTheme;
+    
+            // Применяем и сохраняем тему
+            Application.Current.RequestedThemeVariant = newTheme;
+            SettingsManager.SaveSettings(_currentSettings);
+    
+            if (Application.Current is App app)
+            {
+                app.SetTheme(newTheme);
+            }
+        }
+        private async void OnSaveDataClicked(object sender, RoutedEventArgs e)
+        {
+            _currentSettings.BotToken = BotTokenInput.Text;
+            var token = BotTokenInput.Text;
+            if (string.IsNullOrWhiteSpace(token))
+            {
+                var errorBox = MsBox.Avalonia.MessageBoxManager.GetMessageBoxStandard(
+                    "Ошибка",
+                    "Токен не может быть пустым",
+                    ButtonEnum.Ok,
+                    MsBox.Avalonia.Enums.Icon.Error);
+                await errorBox.ShowWindowDialogAsync(this);
+                return;
+            }
+    
+            SettingsManager.SaveSettings(_currentSettings);
+            var successBox = MsBox.Avalonia.MessageBoxManager.GetMessageBoxStandard(
+                "Успех",
+                "Настройки сохранены",
+                ButtonEnum.Ok,
+                MsBox.Avalonia.Enums.Icon.Success);
+            await successBox.ShowWindowDialogAsync(this);
+        }
+    
+        private async void OnDeleteDataClicked(object sender, RoutedEventArgs e)
+        {
+            var messageBox = MsBox.Avalonia.MessageBoxManager.GetMessageBoxStandard(
+                new MsBox.Avalonia.Dto.MessageBoxStandardParams
+                {
+                    ButtonDefinitions = ButtonEnum.YesNo,
+                    ContentTitle = "Подтверждение удаления",
+                    ContentMessage = "Вы уверены, что хотите удалить все данные?",
+                    Icon = MsBox.Avalonia.Enums.Icon.Question,
+                    WindowStartupLocation = WindowStartupLocation.CenterOwner
+                });
+            var result = await messageBox.ShowWindowDialogAsync(this);
+    
+            if (result == ButtonResult.Yes)
+            {
+                try
+                {
+                    _database.DeleteDatabase();
+                    var successBox = MsBox.Avalonia.MessageBoxManager.GetMessageBoxStandard(
+                        "Успех",
+                        "Все данные успешно удалены.",
+                        ButtonEnum.Ok,
+                        MsBox.Avalonia.Enums.Icon.Success);
+                    await successBox.ShowWindowDialogAsync(this);
+                }
+                catch (Exception ex)
+                {
+                    var errorBox = MsBox.Avalonia.MessageBoxManager.GetMessageBoxStandard(
+                        "Ошибка",
+                        $"Ошибка при удалении данных: {ex.Message}",
+                        ButtonEnum.Ok,
+                        MsBox.Avalonia.Enums.Icon.Error);
+                    await errorBox.ShowWindowDialogAsync(this);
+                }
+            }
+        }
+    }
+
+  TasksWindow.axaml [Файл]
+  TasksWindow.axaml.cs [Файл]
+    using System;
+    using System.Collections.Generic;
+    using System.Collections.ObjectModel;
+    using System.ComponentModel;
+    using System.Linq;
+    using System.Runtime.CompilerServices;
+    using Avalonia;
+    using Avalonia.Controls;
+    using Avalonia.Data.Converters;
+    using Avalonia.Interactivity;
+    using Avalonia.Media;
+    using MsBox.Avalonia.Enums;
+    using RequestBotLinux.Models;
+    
+    namespace RequestBotLinux;
+    
+    public class TaskStatusToBrushConverter : IValueConverter
+    {
+    
+    
+    
+        public object Convert(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
+        {
+            if (value is not TaskData task) return Brushes.Transparent;
+    
+            if (task.Status == "Завершено") return Brushes.Green;
+    
+            var remaining = task.Deadline - DateTime.Now;
+            var total = task.Deadline - task.Timestamp;
+            return remaining.TotalSeconds < 0 || (total.TotalSeconds > 0 && remaining.TotalSeconds / total.TotalSeconds < 0.1)
+                ? Brushes.Red
+                : Brushes.Transparent;
+        }
+    
+        public object ConvertBack(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
+            => throw new NotSupportedException();
+    }
+    
+    public class TaskTextColorConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter,
+                            System.Globalization.CultureInfo culture)
+        {
+            if (value is not TaskData task)
+                return Application.Current.FindResource("TextControlForeground");
+    
+            var remaining = task.Deadline - DateTime.Now;
+            var total = task.Deadline - task.Timestamp;
+    
+            return remaining.TotalSeconds < 0 ||
+                  (total.TotalSeconds > 0 && remaining.TotalSeconds / total.TotalSeconds < 0.1)
+                ? Brushes.Red
+                : Application.Current.FindResource("TextControlForeground");
+        }
+    
+        public object ConvertBack(object value, Type targetType, object parameter,
+                                System.Globalization.CultureInfo culture)
+            => throw new NotImplementedException();
+    }
+    
+    public partial class TasksWindow : UserControl, INotifyPropertyChanged
+    {
+        public event PropertyChangedEventHandler? PropertyChanged;
+    
+        private void OnPropertyChanged([CallerMemberName] string? propertyName = null)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+        private string _filterText = string.Empty;
+        public string FilterText
+        {
+            get => _filterText;
+            set
+            {
+                if (_filterText != value)
+                {
+                    _filterText = value;
+                    OnPropertyChanged();
+                    ApplyFilterAndSorting();
+                }
+            }
+        }
+    
+        private int _sortIndex = 0;
+        public int SortIndex
+        {
+            get => _sortIndex;
+            set
+            {
+                if (_sortIndex != value)
+                {
+                    _sortIndex = value;
+                    OnPropertyChanged();
+                    ApplyFilterAndSorting();
+                }
+            }
+        }
+        public ObservableCollection<TaskData> Tasks { get; } = new();
+        private List<TaskData> _allTasks = new List<TaskData>();
+    
+        public TasksWindow()
+        {
+            InitializeComponent();
+            DataContext = this;
+            LoadTasks();
+    
+            listViewTasks.DoubleTapped += OnTaskDoubleTapped;
+            listViewTasks.SelectionChanged += OnTaskSelected;
+            btnDeleteTask.Click += BtnDeleteTask_Click;
+        }
+    
+    
+        private void LoadTasks()
+        {
+            _allTasks = App.Database.GetAllTasks();
+            ApplyFilterAndSorting();
+        }
+    
+        private void ApplyFilterAndSorting()
+        {
+            var filtered = _allTasks.AsEnumerable();
+    
+            // Применение фильтрации
+            if (!string.IsNullOrWhiteSpace(_filterText))
+            {
+                var filter = _filterText.ToLower();
+                filtered = filtered.Where(t =>
+                    t.MessageText.ToLower().Contains(filter) ||
+                    t.Username.ToLower().Contains(filter) ||
+                    t.FirstName.ToLower().Contains(filter) ||
+                    t.LastName.ToLower().Contains(filter) ||
+                    t.CabinetNumber.ToLower().Contains(filter)
+                );
+            }
+    
+            // Применение сортировки
+            filtered = _sortIndex switch
+            {
+                0 => filtered.OrderBy(t => t.Deadline),
+                1 => filtered.OrderByDescending(t => t.Deadline),
+                _ => filtered
+            };
+    
+            Tasks.Clear();
+            foreach (var task in filtered)
+            {
+                Tasks.Add(task);
+            }
+        }
+    
+        private void OnTaskDoubleTapped(object sender, RoutedEventArgs e)
+        {
+            if (listViewTasks.SelectedItem is TaskData selectedTask)
+            {
+                var newStatus = selectedTask.Status == "Завершено" ? "В работе" : "Завершено";
+                App.Database.UpdateTaskStatus(selectedTask.Id, newStatus);
+                LoadTasks();
+            }
+        }
+    
+        private void OnTaskSelected(object sender, SelectionChangedEventArgs e)
+        {
+            if (listViewTasks.SelectedItem is not TaskData selectedTask) return;
+    
+            var info = $"ID: {selectedTask.Id}\n" +
+                       $"Пользователь: {selectedTask.Username}\n" +
+                       $"Имя: {selectedTask.FirstName}\n" +
+                $"Фамилия: {selectedTask.LastName}\n" +
+                $"Кабинет: {selectedTask.CabinetNumber}\n" +
+                $"Описание: {selectedTask.MessageText}\n" +
+                $"Статус: {selectedTask.Status}\n" +
+                $"Дата создания задачи: {selectedTask.Timestamp:dd.MM.yyyy HH:mm}\n" +
+                       $"Дедлайн: {selectedTask.Deadline:dd.MM.yyyy HH:mm}";
+    
+            textBoxMessages.Text = info;
+        }
+    
+        private async void BtnDeleteTask_Click(object sender, RoutedEventArgs e)
+        {
+            // Проверка, выбрана ли задача
+            if (listViewTasks.SelectedIndex == -1)
+            {
+                var errorBox = MsBox.Avalonia.MessageBoxManager.GetMessageBoxStandard(
+                    new MsBox.Avalonia.Dto.MessageBoxStandardParams
+                    {
+                        ContentTitle = "Ошибка",
+                        ContentMessage = "Пожалуйста, выберите задачу для удаления.",
+                        ButtonDefinitions = ButtonEnum.Ok,
+                        Icon = Icon.Error,
+                        WindowStartupLocation = WindowStartupLocation.CenterOwner
+                    });
+    
+                await errorBox.ShowWindowDialogAsync(TopLevel.GetTopLevel(this) as Window);
+                return;
+            }
+    
+            var selectedTask = App.Database.GetAllTasks()[listViewTasks.SelectedIndex];
+    
+            var messageBox = MsBox.Avalonia.MessageBoxManager.GetMessageBoxStandard(
+                new MsBox.Avalonia.Dto.MessageBoxStandardParams
+                {
+                    ButtonDefinitions = ButtonEnum.YesNo,
+                    ContentTitle = "Подтверждение удаления",
+                    ContentMessage = "Вы уверены, что хотите удалить задачу?",
+                    Icon = Icon.Question,
+                    WindowStartupLocation = WindowStartupLocation.CenterOwner
+                });
+    
+            var result = await messageBox.ShowWindowDialogAsync(TopLevel.GetTopLevel(this) as Window);
+    
+            if (result == ButtonResult.Yes)
+            {
+                App.Database.DeleteTask(selectedTask.Id);
+                LoadTasks();
+                textBoxMessages.Text = string.Empty;
+            }
+        }
+    }
+
+  TimePeriodDialog.cs [Файл]
+    using System;
+    using Avalonia;
+    using Avalonia.Controls;
+    using Avalonia.Media;
+    using MsBox.Avalonia;
+    using MsBox.Avalonia.Enums;
+    
+    namespace RequestBotLinux.Views
+    {
+        public class TimePeriodDialog : Window
+        {
+            private readonly TextBlock _tbSelectedPeriod;
+    
+            public TimePeriodDialog()
+            {
+                this.Width = 150;
+                this.Height = 330;
+                this.Title = "Р’С‹Р±РµСЂРёС‚Рµ РїРµСЂРёРѕРґ";
+                SystemDecorations = SystemDecorations.None;
+    
+                WindowStartupLocation = WindowStartupLocation.CenterOwner;
+    
+                var stack = new StackPanel
+                {
+                    Margin = new Thickness(20),
+                    Spacing = 10
+                };
+                _tbSelectedPeriod = new TextBlock
+                {
+                    Text = "Р’С‹Р±РµСЂРёС‚Рµ РїРµСЂРёРѕРґ СѓРґР°Р»РµРЅРёСЏ:",
+                    TextWrapping = TextWrapping.Wrap,
+                    Margin = new Thickness(0, 0, 0, 10),
+                    Foreground = Brushes.White
+                };
+    
+                AddButton(stack, "1 РґРµРЅСЊ", TimeSpan.FromDays(1));
+                AddButton(stack, "1 РЅРµРґРµР»СЏ", TimeSpan.FromDays(7));
+                AddButton(stack, "1 РјРµСЃСЏС†", TimeSpan.FromDays(30));
+                AddButton(stack, "1 РіРѕРґ", TimeSpan.FromDays(365));
+                AddCancelButton(stack);
+                this.Content = stack;
+            }
+    
+            private void AddButton(Panel parent, string text, TimeSpan period)
+            {
+                var button = new Button
+                {
+                    Content = text,
+                    Margin = new Thickness(0, 5, 0, 5),
+                    Padding = new Thickness(10),
+                };
+    
+                button.Click += (s, e) =>
+                {
+                    if (period <= TimeSpan.Zero)
+                    {
+                        // РџРѕРєР°Р·С‹РІР°РµРј РѕС€РёР±РєСѓ, РµСЃР»Рё РїРµСЂРёРѕРґ РЅРµРєРѕСЂСЂРµРєС‚РЅС‹Р№
+                        var errorBox = MessageBoxManager.GetMessageBoxStandard(
+                            "РћС€РёР±РєР°",
+                            "РќРµРєРѕСЂСЂРµРєС‚РЅС‹Р№ РїРµСЂРёРѕРґ",
+                            ButtonEnum.Ok,
+                            MsBox.Avalonia.Enums.Icon.Error,
+                            WindowStartupLocation = WindowStartupLocation.CenterOwner
+                        );
+                        errorBox.ShowWindowDialogAsync(this);
+                        return;
+                    }
+    
+                    Close(period);
+                };
+    
+                parent.Children.Add(button);
+            }
+    
+            private void AddCancelButton(Panel parent)
+            {
+                var button = new Button { Content = "РћС‚РјРµРЅР°" };
+                button.Margin = new Thickness(0, 5, 0, 5);
+                button.Padding = new Thickness(10);
+                button.Click += (s, e) => Close(null);
+                parent.Children.Add(button);
+            }
+        }
+    }
+
